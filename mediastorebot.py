@@ -1,3 +1,4 @@
+# (C) Paulus Madison Hay
 # Media storage  robot which
 # stores media
 
