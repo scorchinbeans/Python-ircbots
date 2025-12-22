@@ -1,9 +1,10 @@
 #! /usr/bin/env python
 
 """The neon saturn botnet.
-By: Paulus Madison Hay.
+(C) Paulus Madison Hay.
 aka: dreadlink
 
+license: gplv2
 This is The neon saturn botnet controller.
 It is used to start, maintain, and manipulate
 irc bots started from its server."""
