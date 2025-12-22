@@ -93,6 +93,7 @@ class adnetbot(boilerplate):
                 return
 
         elif arg[0] == "!help":
+            c.privmsg(nick, "(C) gplv2 adnetbot") #gplv2 2.c
             c.privmsg(nick, "!buy-irc-ad [#shows] [message]")
             c.privmsg(nick, "Buy an advertisement, [message]")
             c.privmsg(nick, "to be shown [#shows] times.")
