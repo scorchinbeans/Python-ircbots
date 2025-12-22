@@ -1,5 +1,6 @@
-# By: Paulus Madison Hay
+# (C) Paulus Madison Hay
 # on: august 8 2024
+# License: gplv2
 
 # Bitvouchers are like a reserve
 # currency system. People put in bitcoins
