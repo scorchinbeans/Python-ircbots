@@ -1,5 +1,6 @@
 #! /usr/bin/env python
-#
+# (C) Paulus Madison Hay
+
 # The bottle IRC server.
 # This one will try to incorporate brython to
 # approximate mk2's capabilities in the client
