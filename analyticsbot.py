@@ -1,3 +1,6 @@
+# (C) Paulus Madison Hay
+# License: gplv2
+
 from bot_boilerplate import boilerplate
 from threading import Thread
 mainclass = 'analyticsbot'
