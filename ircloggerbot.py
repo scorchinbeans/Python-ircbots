@@ -1,8 +1,5 @@
 #! /usr/bin/env python
-#
-# Example program using irc.bot.
-#
-# Joel Rosdahl <joel@rosdahl.net>
+# (C) Paulus Madison Hay
 
 """A simple example bot.
 
