@@ -1,7 +1,8 @@
 #! /usr/bin/env python
 
 # An irc advertisement robot.
-# By: Paulus Madison Hay
+# (C) Paulus Madison Hay
+# License: gplv2
 
 import irc.bot
 import irc.strings
