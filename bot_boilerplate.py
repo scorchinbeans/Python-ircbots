@@ -1,3 +1,5 @@
+# (C) Paulus Madison Hay
+# License: gplv2
 
 import ssl, functools
 import irc.bot, irc.client
