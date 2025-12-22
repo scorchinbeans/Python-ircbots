@@ -1,7 +1,8 @@
 #! /usr/bin/env python
 
 """The neon saturn botnet.
-By: dreadlink.
+By: Paulus Madison Hay.
+aka: dreadlink
 
 This is The neon saturn botnet controller.
 It is used to start, maintain, and manipulate
