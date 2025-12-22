@@ -406,6 +406,7 @@ class blackjackbot(boilerplate):
                 self.players = []
 
         elif cmd == "!help" and not ingame:
+            c.privmsg(nick, "(C) gplv2 Blackjackbot")
             c.privmsg(nick, "!join: Join the next game when started.")
             c.privmsg(nick, "You will be PM'd when the game starts.")
 
