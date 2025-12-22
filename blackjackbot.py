@@ -1,3 +1,7 @@
+
+# (C) Paulus Madison Hay
+# License: GPLV2
+
 from bot_boilerplate import boilerplate
 from os import system, popen
 from schedule import repeat
@@ -406,7 +410,7 @@ class blackjackbot(boilerplate):
                 self.players = []
 
         elif cmd == "!help" and not ingame:
-            c.privmsg(nick, "(C) gplv2 Blackjackbot")
+            c.privmsg(nick, "(C) gplv2 Blackjackbot") # gplv2 2.c
             c.privmsg(nick, "!join: Join the next game when started.")
             c.privmsg(nick, "You will be PM'd when the game starts.")
 
