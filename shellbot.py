@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# (C) Paulus Madison Hay
 # Create a shell server like SDF shells
 # but over irc private message. This may
 # create more services and social hangouts
