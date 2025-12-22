@@ -1,3 +1,7 @@
+# (C) Paulus Madison Hay
+# Pokerbot. Plays mmo poker with
+# the masses across irc everywhere.
+
 from bot_boilerplate import boilerplate
 from os import system, popen
 from schedule import repeat
