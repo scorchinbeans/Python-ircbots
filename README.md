@@ -10,6 +10,11 @@ To use, run botshell.py
 its usage should be documented
 within botshell.py.
 
+Side note: I am the maintainer
+and author of this code, paulus
+madison hay. My phone number is
+502-885-3744. Please hire me.
+
 requirements:
 schedule
 salmon
