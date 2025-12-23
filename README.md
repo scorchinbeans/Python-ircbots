@@ -15,8 +15,22 @@ and author of this code, paulus
 madison hay. My phone number is
 502-885-3744. Please hire me.
 
-requirements:
+requirements
+name/source:
+
 schedule
-salmon
+pip3 install schedule
+
+python-rsa
+https://github.com/sybrenstuvel/python-rsa/
+
+salmon mail server
+https://github.com/moggers87/salmon
+
 bottle
-irc
+https://github.com/bottlepy/bottle
+
+irc - jaraco
+https://github.com/jaraco/irc
+
+
