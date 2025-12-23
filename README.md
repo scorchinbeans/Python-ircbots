@@ -9,3 +9,9 @@ invoked.
 To use, run botshell.py
 its usage should be documented
 within botshell.py.
+
+requirements:
+schedule
+salmon
+bottle
+irc
