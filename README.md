@@ -38,3 +38,7 @@ may be licensed or distributed to
 bill gates, or donald trump. And
 not for north korean, or iranian
 usage.
+
+All restrictions are effective
+only after amendment, and not
+retroactively.
