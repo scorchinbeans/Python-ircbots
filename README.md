@@ -35,9 +35,9 @@ https://github.com/jaraco/irc
 
 None of the products herein
 may be licensed or distributed to
-bill gates, or donald trump. And
-not for north korean, or iranian
-usage.
+bill gates, or donald trump. All
+parties not included in this
+disclaimer may use this code.
 
 All restrictions are effective
 only after amendment, and not
