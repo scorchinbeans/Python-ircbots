@@ -45,6 +45,7 @@ class TestBot(boilerplate):
         self.channel = channel
         self.server = server
         self.port = port
+        self.nodecost = 5
 
     def on_nicknameinuse(self, c, e):
         c.nick(c.get_nickname() + "_")
@@ -59,6 +60,7 @@ class TestBot(boilerplate):
 
         elif cmd[0] == 'circ-chain':
             chain = [cmd[1]]
+            self.checkout(nick, self.nodecost)
             lasthost = chain.split('/') [-1]
             lastnode = chain.split('/') [-2]
             firstnode = chain.split('/') [0]
@@ -234,6 +236,33 @@ class TestBot(boilerplate):
             self.rdcc[rnick].send_bytes \
              (struct.pack("!I", data))
 
+    def checkout(self, nick, cost):
+        c = self.connection # Charge [nick], [cost].
+        c.privmsg(nick, "cost: %f bitcoins" % cost)
+        cc = "electrum add_request %f" % cost
+
+        ep = popen(cc, "r")
+        reqjson = json.loads(ep.read())
+        rid = reqjson["request_id"]
+        htm = reqjson["URI"]
+
+        cc = "electrum get_request %s" % rid
+        c.privmsg(nick, "Send bitcoins through")
+        c.privmsg(nick, "this link. You have 30")
+        c.privmsg(nick, "seconds before timeout")
+        c.privmsg(nick, htm)
+
+        bc = time.time() + 30
+        while time.time() <= (bc + 30):
+            ep = popen(cc, "r")
+            rstr = json.loads(ep.read())
+            rstr = rstr["status_str"]
+            ep.close()
+            sleep(3)
+
+        if rstr == "Completed": return 0
+        else: return 1
+    
     def cmd_parser(self, e, cmd):
         nick = e.source.nick
         c = self.connection
