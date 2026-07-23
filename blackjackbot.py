@@ -1,7 +1,3 @@
-
-# (C) Paulus Madison Hay
-# License: GPLV2
-
 from bot_boilerplate import boilerplate
 from os import system, popen
 from schedule import repeat
@@ -364,13 +360,18 @@ class blackjackbot(boilerplate):
 
     def on_ctcp(self, c, e):
         nick = e.source.nick
-        if event.arguments[0] == "VERSION":
+        print(e.arguments)
+        if e.arguments[0] == "VERSION":
+            if len(e.arguments) == 1:
+                c.ctcp_reply(nick, "VERSION Blackjackbot v2")
+                return
+
             _isweb[nick] = False # Initialize nick ver.
             if e.arguments[1].split(' ')[0] == "webirc":
                 _isweb[nick] = True # Is webirc client.
 
             elif e.arguments[1].split(' ')[0] == 'searchbot':
-                c.send_ctcp(nick, 'VERSION', 'blackjackbot v1.0 -- \
+                c.ctcp_reply(nick, 'VERSION blackjackbot v2 -- \
                  A fun bitcoin blackjack gambling service.')
 
     def on_privmsg(self, c, e):
@@ -410,7 +411,6 @@ class blackjackbot(boilerplate):
                 self.players = []
 
         elif cmd == "!help" and not ingame:
-            c.privmsg(nick, "(C) gplv2 Blackjackbot") # gplv2 2.c
             c.privmsg(nick, "!join: Join the next game when started.")
             c.privmsg(nick, "You will be PM'd when the game starts.")
 
