@@ -1,8 +1,3 @@
-# (C) Paulus Madison Hay
-# license: gplv2
-
-# Pokerbot. Plays mmo poker with
-# the masses across irc everywhere.
 from bot_boilerplate import boilerplate
 from os import system, popen
 from schedule import repeat
@@ -40,6 +35,13 @@ class pokergame:
         self.bets = {}
         self.pot = 0
 
+    def add_debts(self, \
+     credr, debtr, amt):
+        x = open('debts.log', 'a')
+        x.write('%s -> %s %d' \
+         % (credr, debtr, amt))
+        x.close()
+
     def tohtml(self, h):
        hand = self.hands[h]
        rstr = ''
@@ -56,7 +58,7 @@ class pokergame:
            x = int(uni[suit], 16)
            rstr += ["$#x" + hex(x+num)]
 
-        return rstr
+       return rstr
 
     def newgame(self):
         self.deal()
@@ -82,6 +84,9 @@ class pokergame:
         charge = self.pot * 0.15
         tmp0 = self.addrs[self.winner]
         tmp1 = self.pot - charge
+        for i in self.debts:
+            self.add_debts \
+             (i[0], maxuser, i[1])
 
         if tmp1 > 0:
             system("electrum sendto %s %f" \
@@ -101,6 +106,12 @@ class pokergame:
         self.ingame = False
         self.tout = {}
         self.die(self)
+
+    def tally_debts(self, user):
+        debt = 0 # count debts
+        for i in self.debts:
+            if i[0] == user:
+                debt += i[1]
 
     def pokerhand(self, hand):
         # Check for poker hands
@@ -268,8 +279,10 @@ class pokergame:
         cmd = cmd.split(' ')
         c = self.conn # Connection
         if self.ante: # Make players ante
-            for i in self.bets.values( ):
-                if i >= self.antebet:
+            for i in self.bets.keys( ):
+                if self.bets[i]   \
+                 + tally_debts(i) \
+                 >= self.antebet:
                     antes += 1
 
             if antes == len(game.bets):
@@ -348,6 +361,11 @@ class pokergame:
          and user == self.turn:
             self.addrs[user] = cmd[1]
 
+        elif cmd[0] == "!dbet":
+            try: x = int(cmd[1])
+            self.debts += \
+             [user, cmd[1]])
+
         elif cmd[0] == "!bet" \
          and user == self.turn:
             c = self.conn # Set connection
@@ -356,6 +374,12 @@ class pokergame:
                 set adress yet! Use: !setaddr
                 [reciept addr]""")
                return
+
+            if int(cmd[1]) < 0:
+               try: iou = int(cmd[1])
+               except ValueError: return 0 
+               self.debts += [user, cmd[1]]
+               return 0
 
             ep = popen("electrum \
              add_request " + scmd[1], "r")
@@ -381,7 +405,7 @@ class pokergame:
             if rstr != "Completed":
                 c.privmsg(user, "Transaction not completed")
                 c.privmsg(user, "Loaning the user his bet.")
-                self.debts[rnick] += bet
+                self.debts += [user, bet]
                 return
 
             self.pot = bet
@@ -483,7 +507,6 @@ class pokerbot(boilerplate):
                 self.players = []
 
         elif cmd == "!help" and not ingame:
-            c.privmsg(nick, "(C) gplv2 Paulus Madison Hay")
             c.privmsg(nick, "!join: Join the next game when started.")
             c.privmsg(nick, "You will be PM'd when the game starts.")
 
