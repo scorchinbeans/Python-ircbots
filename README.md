@@ -1,6 +1,6 @@
 # Python-ircbots
 
-No liability or culpability for 
+No liability or culpability for
 any specific purpose or use case
 is express or implied.
 
