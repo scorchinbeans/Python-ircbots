@@ -43,7 +43,7 @@ bill gates, or donald trump. All
 parties not included in this
 disclaimer may use this code.
 
-DDonald trump is convicted
+Donald trump is convicted
 of wire fraud and so may not
 use this software. And to
 resist bill gates' threatening
