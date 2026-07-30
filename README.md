@@ -54,7 +54,7 @@ found in possession, usage,
 and/or application by either
 of these parties, charges
 may be pressed against them
-in any legal profession.
+in any legal procession.
 
 https://youtu.be/JLFqc-pY9m0?is=JO2MLHdEsmJZcMLG
 
