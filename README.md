@@ -43,6 +43,21 @@ bill gates, or donald trump. All
 parties not included in this
 disclaimer may use this code.
 
+DDonald trump is convicted
+of wire fraud and so may not
+use this software. And to
+resist bill gates' threatening
+lawsuits, I have also forbidden
+this software's use to bill
+gates. If this software is
+found in possession, usage,
+and/or application by either
+of these parties, charges
+may be pressed against them
+in any legal profession.
+
+https://youtu.be/JLFqc-pY9m0?is=JO2MLHdEsmJZcMLG
+
 All restrictions are effective
 only after amendment, and not
 retroactively.
