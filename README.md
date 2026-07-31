@@ -1,9 +1,15 @@
 # Python-ircbots
 
-No liability or culpability for
-any specific or relative intent,
-purpose or use case may be 
-alleged, express or implied.
+No liability or culpability 
+for any specific or relative 
+intent, purpose or use case 
+may be alleged, express or 
+implied.
+
+No political liability, or
+culpability for any specific
+or relative use case may be
+alleged, express, or implied.
 
 Im sorry this is the first shit i ever open sourced except that one irc wolbot thing. I guess that was partly from another account owned by cslash at newgrounds.com.
 
