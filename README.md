@@ -50,6 +50,14 @@ bill gates, or donald trump. All
 parties not included in this
 disclaimer may use this code.
 
+Those people may not host
+this software on their own
+culpability and/or credibility,
+and may only use its hosted
+services by anyone as online
+users To someone else's
+credible culpable hosting.
+
 Donald trump is convicted
 of wire fraud and so may not
 use this software. And to
