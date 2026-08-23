@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 # (C) Paulus Madison Hay
-# License: gplv2
+# License: gplv3
 
 # Create a shell server like SDF shells
 # but over irc private message. This may
