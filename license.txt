@@ -1,3 +1,3 @@
 Author: Paulus Madison Hay
-License: GPL v2
+License: GPL v3
 Commit date: Aug 4 2025
