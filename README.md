@@ -1,7 +1,7 @@
 # Python-ircbots
 
 By using, downloading, or becoming aware of this software you have already agreed to these Terms and 
-the terms of the GPLv2.
+the terms of the GPLv3
 
 No liability or culpability 
 for any specific or relative 
