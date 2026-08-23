@@ -1,6 +1,6 @@
 # (C) Paulus Madison Hay
 # on: august 8 2024
-# License: gplv2
+# License: gplv3
 
 # Bitvouchers are like a reserve
 # currency system. People put in bitcoins
