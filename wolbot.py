@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 # (C) Paulus Madison Hay
-# License: gplv2
+# License: gplv3
 
 import irc.bot
 import irc.strings
