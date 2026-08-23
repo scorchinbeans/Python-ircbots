@@ -2,7 +2,7 @@
 
 # An irc advertisement robot.
 # (C) Paulus Madison Hay
-# License: gplv2
+# License: gplv3
 
 import irc.bot
 import irc.strings
