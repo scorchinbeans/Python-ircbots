@@ -4,7 +4,7 @@
 (C) Paulus Madison Hay.
 aka: dreadlink
 
-license: gplv2
+license: gplv3
 This is The neon saturn botnet controller.
 It is used to start, maintain, and manipulate
 irc bots started from its server."""
