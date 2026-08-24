@@ -3,18 +3,17 @@
 By using, downloading, or becoming aware of this software you have already agreed to these Terms and 
 the terms of the GPLv3
 
-No liability or culpability 
-for any specific or relative 
-intent, purpose or use case 
-may be alleged, express or 
-implied.
+No liability, culpability, Or complicity for any specific relative, or relevant intent, purpose or use case may be 
+alleged, express or implied.
 
-No political liability, or
-culpability for any specific
-or relative use case may be
-alleged, express, or implied.
+No political liability,
+culpability, Or complicity 
+for any specific, relative,
+or relevant intent, use case,
+or purpose may be alleged, 
+express, or implied.
 
-Im sorry this is the first shit i ever open sourced except that one irc wolbot thing. I guess that was partly from another account owned by cslash at newgrounds.com.
+Im sorry this is the first antics i ever open sourced except that one irc wolbot thing. I guess that was partly from another account owned by cslash at newgrounds.com.
 
 mine = Paulus madison Hay
 But the rest of this is mine and depends on some open source modules. You will need electrum installed and a wallet created therein and logged into when electrum -d is automatically
