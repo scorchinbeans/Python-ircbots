@@ -38,6 +38,9 @@ name/source:
 schedule
 pip3 install schedule
 
+amazing qr
+https://github.com/x-hw/amazing-qr
+
 python-rsa
 https://github.com/sybrenstuvel/python-rsa/
 
