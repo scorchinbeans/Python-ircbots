@@ -44,7 +44,7 @@
 # by the american SEC, for their
 # money's complicity with criminal
 # and targeted organizations. Such
-# alledgibility and simplicity
+# alledgibility and culpability
 # have been mitigated by license.
 # But user beware!
 
