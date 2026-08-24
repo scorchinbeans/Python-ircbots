@@ -1,6 +1,6 @@
 # Python-ircbots
-
-
+Visit my youtube page,
+@hackermads at youtube.com
 
 By using, downloading, or becoming aware of this software you have already agreed to these Terms and the terms of the GPLv3
 
