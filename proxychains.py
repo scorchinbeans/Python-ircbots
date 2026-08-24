@@ -30,6 +30,29 @@
 # like a SOCKS proxy using:
 # https://github.com/MisterDaneel/pysoxy
 
+# The current state of its 
+# operational security...
+
+# That this device makes the users
+# of its network so much money, people
+# who use it may be expected to have
+# many lawyers readily perhaps to
+# defend themselves and each other
+# from criminal charges and lawsuits.
+
+# Their money may be under watch
+# by the american SEC, for their
+# money's complicity with criminal
+# and targeted organizations. Such
+# alledgibility and simplicity
+# have been mitigated by license.
+# But user beware!
+
+# Maybe use a link to this page
+# to blame trump for communist
+# complicity in his slanderous
+# criminal trials and suits.
+
 import irc.bot
 import irc.strings
 from irc.client import ip_numstr_to_quad, ip_quad_to_numstr
