@@ -41,8 +41,9 @@
 # from criminal charges and lawsuits.
 
 # Their money may be under watch
-# by the american SEC, for their
-# money's complicity with criminal
+# by the north american SEC, for 
+# their monetary and commercial 
+# activity's complicity with criminal 
 # and targeted organizations. Such
 # alledgibility and culpability
 # have been mitigated by license.
