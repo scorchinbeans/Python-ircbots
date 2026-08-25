@@ -2,7 +2,10 @@
 Visit my youtube page,
 @hackermads at youtube.com
 
-By using, downloading, or becoming aware of this software you have already agreed to these Terms and the terms of the GPLv3
+By using, downloading, or becoming
+aware of this software you have
+already agreed to these Terms and 
+the terms of the GPLv3
 
 every copy of this software must bear
 this sublicense in its header.
@@ -17,10 +20,18 @@ or relevant intent, use case,
 or purpose may be alleged, 
 express, or implied.
 
-Im sorry this is the first antics i ever open sourced except that one irc wolbot thing. I guess that was partly from another account owned by cslash at newgrounds.com.
+Im sorry this is the first antics i
+ever open sourced except that one irc
+wolbot thing. I guess that was partly
+from another account owned by cslash
+at newgrounds.com.
 
 mine = Paulus madison Hay
-But the rest of this is mine and depends on some open source modules. You will need electrum installed and a wallet created therein and logged into when electrum -d is automatically
+But the rest of this is mine and
+depends on some open source modules.
+You will need electrum installed and a
+wallet created therein and logged into
+when electrum -d is automatically
 invoked.
 
 To use, run botshell.py
@@ -42,7 +53,8 @@ amazing qr
 https://github.com/x-hw/amazing-qr
 
 python-rsa
-https://github.com/sybrenstuvel/python-rsa/
+https://github.com/sybrenstuvel/
+python-rsa/
 
 salmon mail server
 https://github.com/moggers87/salmon
@@ -69,18 +81,18 @@ credible culpable hosting.
 
 Donald trump is convicted
 of wire fraud and so may not
-use this software. And to
-resist bill gates' threatening
-lawsuits, I have also forbidden
-this software's use to bill
-gates. If this software is
-found in possession, usage,
-and/or application by either
-of these parties, charges
-may be pressed against them
-in any legal procession.
+violate the license this software. 
+And to resist bill gates' threatening
+lawsuits, I have also forbidden this
+software's use to bill gates. If this
+software is found in possession, usage,
+and/or application by either of these
+parties, charges may be pressed
+against them in any legal 
+procession.
 
-https://youtu.be/JLFqc-pY9m0?is=JO2MLHdEsmJZcMLG
+https://youtu.be/JLFqc-pY9m0?
+is=JO2MLHdEsmJZcMLG
 
 All restrictions are effective
 only after amendment, and not
