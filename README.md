@@ -10,8 +10,11 @@ the terms of the GPLv3
 every copy of this software must bear
 this sublicense in its header.
 
-No liability, culpability, Or complicity for any specific relative, or relevant intent, purpose or use case may be 
-alleged, express or implied.
+No liability, culpability, Or
+complicity for any specific relative,
+or relevant intent, purpose or use 
+case may be alleged, express or
+implied.
 
 No political liability,
 culpability, Or complicity 
