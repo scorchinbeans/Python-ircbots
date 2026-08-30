@@ -2,6 +2,13 @@ Author: Paulus Madison Hay
 License: GPL v3
 Commit date: Aug 4 2025
 
+this software product's use and/or
+Abuse may not be associated, Alleged, and/or conflated as terrorism,
+reflecting a terrorist or criminal
+ideology or philosophy, implicate
+or be implicated to that of its
+user as such.
+
 # Python-ircbots
 Visit my youtube page,
 @hackermads at youtube.com
