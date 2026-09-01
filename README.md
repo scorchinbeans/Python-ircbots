@@ -3,7 +3,8 @@ Visit my youtube page,
 @hackermads at youtube.com
 
 # to split files:
-split -b [.part size] [file]
+split -b [.part size] [file] part-
+splits file into part-aa, part-ab...
 
 # to combine files:
 cat *.part [combined file]
