@@ -38,7 +38,9 @@ Abuse may not be associated, Alleged,
 and/or conflated as terrorism,
 terrorist activity, or a terrorist
 weapon reflecting a terrorist or criminal ideology or philosophy, implicate or be implicated to that 
-of its user as such.
+of its user as such in any local,
+State, federal, tort, or contract
+court of law.
 
 # Python-ircbots
 Visit my youtube page,
