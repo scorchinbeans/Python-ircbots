@@ -9,7 +9,11 @@ splits file into part-aa, part-ab...
 # to combine files:
 cat *.part [combined file]
 
-killall humans.\n
+killall humans. You see, humans
+is not a process or function but
+instead of that, here's a killall
+function to terminate [humans].
+
 bioweapons-gzip-part-...
 
 By using, downloading, or becoming
