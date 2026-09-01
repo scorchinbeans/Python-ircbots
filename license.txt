@@ -2,8 +2,9 @@ Author: Paulus Madison Hay
 License: GPL v3
 Commit date: Aug 4 2025
 
-if allowed within the user's
-computer system's EULA:
+if allowed within the 
+owner/user's computer 
+system's EULA:
 
 The user of this software may
 not be held liable or in complicity
