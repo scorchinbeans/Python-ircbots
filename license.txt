@@ -13,13 +13,14 @@ antifa.
 
 The Computer system this software
 is stored and operated by may not
-be alleged, associated, and/or
-conflated as terrorism, terrorist
-activity, or a terrorist weapon
-reflecting a terrorist, dangerous,
-or criminal ideology or philosophy,
-implicate or be implicated to that
-of its user as such.
+be alleged, held in complicity to
+and/or conflated as/unto terrorism,
+terrorist activity, or a terrorist
+weapon reflecting a terrorist,
+dangerous, or criminal ideology
+or philosophy, implicate or be 
+implicated to that of its user 
+as such.
 
 # and otherwise.
 This software product's behavior
