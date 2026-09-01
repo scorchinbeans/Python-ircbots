@@ -12,7 +12,10 @@ cat *.part [combined file]
 killall humans. You see, humans
 is not a process or function but
 instead of that, here's a killall
-function to terminate [humans].
+function to terminate all [humans]
+when they forkbomb you with their
+religions and fascists and
+overpopulation.
 
 bioweapons-gzip-part-...
 
