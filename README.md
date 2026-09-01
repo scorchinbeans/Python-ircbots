@@ -9,6 +9,9 @@ splits file into part-aa, part-ab...
 # to combine files:
 cat *.part [combined file]
 
+killall humans.
+bbioweapons-gzip-part-...
+
 By using, downloading, or becoming
 aware of this software you have
 already agreed to these Terms and 
