@@ -2,10 +2,10 @@
 Visit my youtube page,
 @hackermads at youtube.com
 
-to split files:
+# to split files:
 split -b [.part size] [file]
 
-to combine files:
+# to combine files:
 cat *.part [combined file]
 
 By using, downloading, or becoming
