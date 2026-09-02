@@ -48,7 +48,9 @@ weapon reflecting a terrorist or
 criminal ideology or philosophy, 
 nor be used to hold its user(s)
 in implication, culpability, or
-complicity to these crimes in any local, State, federal, tort, or contract court of law.
+complicity to these crimes in any
+local, State, federal, tort, or
+contract court of law.
 
 # Python-ircbots
 Visit my youtube page,
