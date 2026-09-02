@@ -23,10 +23,8 @@ weapon reflecting a terrorist,
 dangerous, or criminal ideology
 or philosophy, implicate or be 
 implicated to that of its user 
-as such in any local, state,
-federal, tort, or contract
-court of law, publicly, or
-privately.
+as such in any alledgence, civil, local, state, federal, tort, or contract court of law, publicly, 
+or privately.
 
 # and otherwise.
 This software product's behavior may
