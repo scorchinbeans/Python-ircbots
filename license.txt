@@ -2,6 +2,7 @@ Author: Paulus Madison Hay
 License: GPL v3
 Commit date: Aug 4 2025
 
+[consentual section]
 if allowed within the 
 owner/user's computer 
 system's EULA:
@@ -28,7 +29,7 @@ local, state, federal, tort, or
 contract court of law, publicly, 
 or privately.
 
-# and otherwise.
+# [end consentual section]
 This software product's behavior may
 protect its users privacy even from
 the government. In america, we have 
