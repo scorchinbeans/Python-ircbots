@@ -63,6 +63,7 @@ and author of this code, paulus
 madison hay. My phone number is
 +1 502-885-3744. Please hire me.
 
+You have already agreed that:
 If you surrender and sign over a
 national sovreign territory the 
 size of china and its international
