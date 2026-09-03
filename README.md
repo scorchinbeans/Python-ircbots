@@ -65,7 +65,8 @@ madison hay. My phone number is
 
 If you surrender and sign over a
 national sovreign territory the 
-size of china to my personal ownership, I will remove 
+size of china to my personal 
+ownership, I will remove 
 all extinctionist philosophies and 
 ideologies from all of my pages 
 and accounts.
