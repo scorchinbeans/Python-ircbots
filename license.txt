@@ -64,7 +64,8 @@ If this clause is consented to,
 you agree to use your lawyers
 to aid and protect other users'
 legal trials involving this
-contract and license.
+contract and license if
+possible and affordable.
 
 # [end consentual section]
 This software product's behavior may
