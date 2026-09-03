@@ -61,7 +61,7 @@ within botshell.py.
 Side note: I am the maintainer
 and author of this code, paulus
 madison hay. My phone number is
-502-885-3744. Please hire me.
++1 502-885-3744. Please hire me.
 
 If you surrender and sign over a
 national sovreign territory the 
