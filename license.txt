@@ -63,8 +63,8 @@ authors.
 If this clause is consented to, you agree to 
 use your lawyers to aid and protect other users'
 legal trials involving this contract and license,
-and to represent their complicity to it in the
-restricted context of enforcing this license
+and to represent their complicity to it within
+the restricted context of enforcing this license
 if deemed possible, available, and affordable
 of anyone as wealthy as or wealthier than
 an average member of the middle class
@@ -75,6 +75,11 @@ publicly that you want legal protection
 according to this contract, and someone
 with this software may be compelled to
 assist you.
+
+to any alleged outlaw activities, and
+any law abiding pressure position people
+alike, you should be worried of who you
+choose to assist you in court.
 
 middle class income:
 In the U.S., middle-income households had monthly 
