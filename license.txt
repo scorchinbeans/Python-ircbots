@@ -41,10 +41,11 @@ protect its users privacy even from
 the government. In america, we have 
 the 14th, 4th, 5th, 1st, 9th amendment 
 protecting these rights to privacy, 
-property, and personal autonomy. As
-tthese rights have been so notified
-they must have been invoked during
-any investigation and/or trial.
+anonymity, property, and personal 
+autonomy. As these rights have been
+so notified they must have been 
+invoked during any investigation 
+trial, and/or user data collection.
 
 # Python-ircbots
 Visit my youtube page,
