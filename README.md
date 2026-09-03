@@ -91,6 +91,9 @@ some fraction of a king's bounty
 is thus invoked, greater than
 the value of only money or gold
 but valued in blood and honor.
+what is its relative value,
+and what is its relative
+cost and in what?
 
 As a country only exists as
 empowered and completely sovreign
