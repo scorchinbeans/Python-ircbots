@@ -74,6 +74,11 @@ according to this contract, and someone
 with this software may be compelled to
 assist you.
 
+middle class income:
+In the U.S., middle-income households had monthly 
+incomes ranging from about $4,717 to $14,150 in 2022 
+after adjusting for household size and cost of living.
+
 # [end consentual section]
 This software product's behavior may
 protect its users privacy even from
