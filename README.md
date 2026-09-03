@@ -104,6 +104,16 @@ its neighbors and allies, and without
 causing another war or collapse. This
 represents a territory's value to me.
 
+And ideally without such drama the
+feelings of total self sovreignty
+may comfortably be enjoyed and
+delegated to the People productively
+and creatively instead of representing
+terrorism or a preemptive destruction
+of the faith in that sovreignty.
+thus is its worth to/by/of its
+people's and ethnicity.
+
 If I die in the process of completing
 this scheme, then nick valenti and/or
 my next of kin may consentually own
