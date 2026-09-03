@@ -2,6 +2,10 @@ Author: Paulus Madison Hay
 License: GPL v3
 Commit date: Aug 4 2025
 
+By using, receiving, or finding
+this source code, you have already
+agreed to the terms of this license.
+
 [consentual section]
 if allowed within the 
 owner/user's computer 
