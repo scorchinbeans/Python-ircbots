@@ -78,6 +78,20 @@ phone to sort out the details.
 I may not be contacted or
 accessed in any other way.
 
+"legal/moral" precedent:
+Let "a king's bounty" be defined
+as the price of all his sovrreign
+power, then why wouldn't such an
+apocalyptic threat to their power
+as/of their kingdom be the same?
+
+therefore when threatening or
+bargaining over sovreignty rights
+some fraction of a king's bounty
+is thus invoked, greater than
+the value of only money or gold
+but valued in blood and honor.
+
 As a country only exists as
 empowered and completely sovreign
 in long legal standing, This sovreign 
