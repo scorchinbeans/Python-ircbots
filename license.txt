@@ -27,6 +27,8 @@ targeted or terrorist movements
 or organizations such as allegedly 
 ANTIFA (sic. North America)
 
+Any computer and/or information may be transmitted by
+
 The Computer system this data and software are stored and operated by 
 and its users may not be alleged, held in religious, ethnic, political,
 social, legal, and/or investigative alledgibility, association, complicity
@@ -37,6 +39,11 @@ dangerous, or criminal ideology or philosophy, implicate or be implicated
 directly and/or indirectly to that of its user as such in any alledgence, 
 civil, local, state, federal, tort, or contract court of law, publicly, 
 or privately.
+
+any computer system, network, and/or information system
+may not implicate or be implicated as such in/by interoperability,
+connection, and/or establishment by this computer, information
+system, or its owners, administrators, and/or users.
 
 If this consentual license sector
 is agreed to, then the user must
