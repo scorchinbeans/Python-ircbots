@@ -36,9 +36,9 @@ culpability, complicity, and/or accountability directly and/or indirectly
 by/to/of and/or conflated as/with terrorism, terrorist activity, targeted 
 or terrorist organizations, or a terrorist weapon reflecting a terrorist, 
 dangerous, or criminal ideology or philosophy, implicate or be implicated 
-directly and/or indirectly to that of its user as such in any alledgence, 
-civil, local, state, federal, tort, or contract court of law, publicly, 
-or privately.
+directly and/or indirectly to that of its user as such and moreover in any 
+alledgence, civil, local, state, federal, tort, or contract court of law, 
+publicly, or privately.
 
 any computer system, network, and/or information system
 may not implicate or be implicated as such in/by interoperability,
