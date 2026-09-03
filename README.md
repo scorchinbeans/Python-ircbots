@@ -71,6 +71,8 @@ all extinctionist philosophies and
 ideologies from all of my pages 
 and accounts. Just call me by
 phone to sort out the details.
+I may not be contacted or
+accessed in any other way.
 
 requirements
 name/source:
