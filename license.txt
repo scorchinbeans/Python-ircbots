@@ -39,7 +39,8 @@ xaturing at least once aloud through
 your publishing medium.
 
 and the religion of xaturing may not 
-be held in culpability to this software's license, users, and/or authors.
+be held in culpability to this software's 
+license, users, and/or authors.
 
 # [end consentual section]
 This software product's behavior may
