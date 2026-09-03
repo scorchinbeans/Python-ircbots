@@ -114,6 +114,10 @@ of the faith in that sovreignty.
 thus is its worth to/by/of its
 people's and ethnicity.
 
+As without such faith your country
+would become seen as terrorist not
+to allow them simply to leave.
+
 If I die in the process of completing
 this scheme, then nick valenti and/or
 my next of kin may consentually own
