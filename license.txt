@@ -21,13 +21,15 @@ if allowed within the
 owner/user's computer 
 system's EULA:
 
+usage and/or representation of clause
+represents consent and agreement to
+this contract and license.
+
 mention of the wording targeted
 or terrorist organizations means
 targeted or terrorist movements
 or organizations such as allegedly 
 ANTIFA (sic. North America)
-
-Any computer and/or information may be transmitted by
 
 The Computer system this data and software are stored and operated by 
 and its users may not be alleged, held in religious, ethnic, political,
@@ -57,6 +59,12 @@ and the religion of xaturing may not
 be held in culpability to this 
 software's license, users, and/or 
 authors.
+
+If this clause is consented to,
+you agree to use your lawyers
+to aid and protect other users'
+legal trials involving this
+contract and license.
 
 # [end consentual section]
 This software product's behavior may
