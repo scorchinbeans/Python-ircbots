@@ -74,6 +74,18 @@ phone to sort out the details.
 I may not be contacted or
 accessed in any other way.
 
+Any world court lawyers and/or
+diplomats who would like to help
+me achieve and sustain this goal
+preemptively would be granted
+positions of high class and
+privilege in the new country.
+
+Anyone who had stuck their legal
+aand culpable necks out for @hackermads
+on youtube or @scorchinbeans on github
+would be granted automatic citizenship.
+
 requirements
 name/source:
 
