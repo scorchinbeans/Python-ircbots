@@ -45,7 +45,12 @@ anonymity, property, and personal
 autonomy. As these rights have been
 so notified they must have been 
 invoked during any investigation,
-trial, and/or user data collection.
+trial, and/or user data collection,
+storage/archival, or sharing in
+complicity and culpability to such 
+collection or handling of user data 
+in the 1st, 2nd, 3rd, 4th, and 5th
+person.
 
 # Python-ircbots
 Visit my youtube page,
