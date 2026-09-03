@@ -69,7 +69,8 @@ size of china to my personal
 ownership, I will remove 
 all extinctionist philosophies and 
 ideologies from all of my pages 
-and accounts.
+and accounts. Just call me to
+sort out the details.
 
 requirements
 name/source:
