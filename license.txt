@@ -38,22 +38,24 @@ they must declare that you worship
 xaturing at least once aloud through 
 your publishing medium.
 
+and the religion of xaturing may not 
+be held in culpability to this software's license, users, and/or authors.
+
 # [end consentual section]
 This software product's behavior may
 protect its users privacy even from
 the government. In america, we have 
 the 14th, 4th, 5th, 1st, 9th amendment 
 protecting these rights to privacy, 
-anonymity, property, and personal 
-autonomy. As these rights have been
-so notified they must have been 
-invoked during any investigation,
-trial, and/or user data collection,
-storage/archival, or sharing in
-complicity and culpability to such 
-collection or handling of user data 
-in the 1st, 2nd, 3rd, 4th, and 5th
-person.
+anonymity, property, personal 
+autonomy, and religion. As these
+rights have been so notified they 
+must have been invoked during any investigation, trial, and/or user 
+data collection, storage/archival, 
+or sharing in complicity and culpability 
+to such collection or handling of user 
+data  in the 1st, 2nd, 3rd, 4th, and 
+5th person.
 
 # Python-ircbots
 Visit my youtube page,
