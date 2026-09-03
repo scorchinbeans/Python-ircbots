@@ -65,7 +65,8 @@ use your lawyers to aid and protect other users'
 legal trials involving this contract and license 
 if deemed possible, available, and affordable
 of anyone as wealthy as or wealthier than
-an average member of the middle class.
+an average member of the middle class
+coloquially
 
 # [end consentual section]
 This software product's behavior may
