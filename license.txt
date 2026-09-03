@@ -15,7 +15,7 @@ movements, such as antifa (sic.
 north america)
 
 The Computer system this data and 
-software is stored and operated by 
+software are stored and operated by 
 and its users may not be alleged, 
 held in association, culpability, 
 or complicity by/to/of and/or 
@@ -45,18 +45,6 @@ property, and personal autonomy. As
 tthese rights have been so notified
 they must have been invoked during
 any investigation and/or trial.
-
-this software product's use and/or
-Abuse may not be associated, Alleged,
-and/or conflated as terrorism,
-terrorist activity, or a terrorist
-weapon reflecting a terrorist or 
-criminal ideology or philosophy, 
-nor be used to hold its user(s)
-in implication, culpability, or
-complicity to these crimes in any
-local, State, federal, tort, or
-contract court of law.
 
 # Python-ircbots
 Visit my youtube page,
