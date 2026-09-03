@@ -65,14 +65,23 @@ madison hay. My phone number is
 
 If you surrender and sign over a
 national sovreign territory the 
-size of china to my personal 
-ownership, I will remove 
+size of china and its international
+legal standing and position at the
+united nations and within other
+world treaties and alliances to 
+my personal ownership, I will remove 
 all extinctionist philosophies and 
 ideologies from all of my pages 
 and accounts. Just call me by
 phone to sort out the details.
 I may not be contacted or
 accessed in any other way.
+
+This sovreign teritory may only
+be given in good peace, equanimity,
+and standing with its neighbors and
+allies, and without causing
+another war or collapse.
 
 Any world court lawyers and/or
 diplomats who would like to help
