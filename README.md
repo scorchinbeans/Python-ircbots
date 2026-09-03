@@ -78,11 +78,20 @@ phone to sort out the details.
 I may not be contacted or
 accessed in any other way.
 
-This sovreign teritory may only
-be given in good peace, equanimity,
-and standing with its neighbors and
-allies, and without causing
-another war or collapse.
+As a country only exists as
+empowered and completely sovreign
+in long legal standing, This sovreign 
+teritory may only be given in good 
+peace, equanimity, and standing with 
+its neighbors and allies, and without
+causing another war or collapse. This
+represents a territory's value to me.
+
+If I die in the process of completing
+this scheme, then nick valenti and/or
+my next of kin may consentually own
+the scheme remaining and liability
+to these contracts.
 
 Any world court lawyers and/or
 diplomats who would like to help
