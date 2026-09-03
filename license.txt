@@ -68,6 +68,12 @@ of anyone as wealthy as or wealthier than
 an average member of the middle class
 coloquially
 
+To call this in, you should broadcast
+publicly that you want legal protection
+according to this contract, and someone
+with this software may be compelled to
+assist you.
+
 # [end consentual section]
 This software product's behavior may
 protect its users privacy even from
