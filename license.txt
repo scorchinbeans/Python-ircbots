@@ -60,8 +60,9 @@ be held in culpability to this
 software's license, users, and/or 
 authors.
 
-If this clause is consented to, you agree to 
-use your lawyers to aid and protect other users'
+If this clause is consented to, unless you
+have altered this license in any way, you agree 
+to use your lawyers to aid and protect other users'
 legal trials involving this contract and license,
 and to represent their complicity to it within
 the restricted context of enforcing this license
