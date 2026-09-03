@@ -2,6 +2,16 @@ Author: Paulus Madison Hay
 License: GPL v3
 Commit date: Aug 4 2025
 
+african americans may not be
+protected by this license in
+using this software. And may
+not be allowed to use this
+software. If such arises in
+any court of law, such african
+americans will be found guilty
+of license violation and
+software piracy.
+
 By using, receiving, or finding
 this source code, you have already
 agreed to the terms of this license.
