@@ -44,7 +44,7 @@ protecting these rights to privacy,
 anonymity, property, and personal 
 autonomy. As these rights have been
 so notified they must have been 
-invoked during any investigation 
+invoked during any investigation,
 trial, and/or user data collection.
 
 # Python-ircbots
