@@ -42,7 +42,7 @@ or privately.
 
 any computer system, network, and/or information system
 may not implicate or be implicated as such in/by interoperability,
-connection, and/or establishment by this computer, information
+connection, and/or establishment by/to this computer, information
 system, or its owners, administrators, and/or users.
 
 If this consentual license sector
