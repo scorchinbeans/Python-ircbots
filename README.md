@@ -63,9 +63,9 @@ and author of this code, paulus
 madison hay. My phone number is
 502-885-3744. Please hire me.
 
-If you surrender a national sovreign
-territory the size of china to my 
-personal ownership, I will remove 
+If you surrender and sign over a
+national sovreign territory the 
+size of china to my personal ownership, I will remove 
 all extinctionist philosophies and 
 ideologies from all of my pages 
 and accounts.
