@@ -19,21 +19,6 @@ overpopulation.
 
 bioweapons-gzip-part-...
 
-No liability, culpability, Or
-complicity for any specific relative,
-or relevant intent, purpose or use 
-case may be alleged, express or
-implied.
-
-the users and/or authors of
-this software product may not
-be held in political liability,
-culpability, Or complicity 
-for any specific, relative,
-or relevant intent, use case,
-or purpose may be alleged, 
-express, or implied.
-
 Im sorry this is the first antics i
 ever open sourced except that one irc
 wolbot thing. I guess that was partly
@@ -129,6 +114,10 @@ Anyone who had stuck their legal
 aand culpable necks out for @hackermads
 on youtube or @scorchinbeans on github
 would be granted automatic citizenship.
+If they call my and prove it, the
+they are added as such to this
+contract as such if I can really
+buy or take a country.
 
 requirements
 name/source:
