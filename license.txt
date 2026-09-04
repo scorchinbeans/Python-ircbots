@@ -90,6 +90,11 @@ according to this contract, and someone
 with this software may be compelled to
 assist you.
 
+Any such contractually warranted
+legal help may not imply liability
+culpability, and/or complicity to 
+the defendee's crimes
+
 to any alleged outlaw activities, and any 
 law abiding people in pressure positions 
 for a living alike, you should be worried 
@@ -140,7 +145,7 @@ the terms of the GPLv3
 every copy of this software must bear
 this sublicense in its header.
 
-No users and/or authors of this
+the users and/or authors of this
 software may not be held in liability,
 culpability, Or complicity for any
 specific relative, or relevant intent, 
