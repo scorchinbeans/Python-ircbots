@@ -9,16 +9,6 @@ splits file into part-aa, part-ab...
 # to combine files:
 cat *.part [combined file]
 
-killall humans. You see, humans
-is not a process or function but
-instead of that, here's a killall
-function to terminate all [humans]
-when they forkbomb you with their
-religions and fascists and
-overpopulation.
-
-bioweapons-gzip-part-...
-
 Im sorry this is the first antics i
 ever open sourced except that one irc
 wolbot thing. I guess that was partly
@@ -41,83 +31,6 @@ Side note: I am the maintainer
 and author of this code, paulus
 madison hay. My phone number is
 +1 502-885-3744. Please hire me.
-
-You have already agreed that:
-If you surrender and sign over a
-national sovreign territory the 
-size of china and its international
-legal standing and position at the
-united nations and within other
-world treaties and alliances to 
-my personal ownership, I will remove 
-all extinctionist philosophies and 
-ideologies from all of my pages 
-and accounts. Just call me by
-phone to sort out the details.
-I may not be contacted or
-accessed in any other way.
-
-"legal/moral" precedent:
-Let "a king's bounty" be defined
-as the price of all his sovrreign
-power, then why wouldn't such an
-apocalyptic threat to their power
-as/of their kingdom be the same?
-
-therefore when threatening or
-bargaining over sovreignty rights
-some fraction of a king's bounty
-is thus invoked, greater than
-the value of only money or gold
-but valued in blood and honor.
-what is its relative value,
-and what is its relative
-cost and in what?
-
-As a country only exists as
-empowered and completely sovreign
-in long legal standing, This sovreign 
-teritory may only be given in good 
-peace, equanimity, and standing with 
-its neighbors and allies, and without
-causing another war or collapse. This
-represents a territory's value to me.
-
-And ideally without such drama the
-feelings of total self sovreignty
-may comfortably be enjoyed and
-delegated to the People productively
-and creatively instead of representing
-terrorism or a preemptive destruction
-of the faith in that sovreignty.
-thus is its worth to/by/of its
-people's and ethnicity.
-
-As without such faith your country
-would become seen as terrorist not
-to allow them simply to leave.
-
-If I die in the process of completing
-this scheme, then nick valenti and/or
-my next of kin may consentually own
-the scheme remaining and liability
-to these contracts.
-
-Any world court lawyers and/or
-diplomats who would like to help
-me achieve and sustain this goal
-preemptively would be granted
-positions of high class and
-privilege in the new country.
-
-Anyone who had stuck their legal
-aand culpable necks out for @hackermads
-on youtube or @scorchinbeans on github
-would be granted automatic citizenship.
-If they call my and prove it, the
-they are added as such to this
-contract as such if I can really
-buy or take a country.
 
 requirements
 name/source:
