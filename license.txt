@@ -2,6 +2,10 @@ Author: Paulus Madison Hay
 License: GPL v3
 Commit date: Aug 4 2025
 
+I may not be reached, accessed,
+and/or contacted except by my
+published cell phone number.
+
 By using, receiving, or finding this 
 source code, you have already agreed 
 to the terms of this license. If this 
