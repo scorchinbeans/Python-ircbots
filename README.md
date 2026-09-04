@@ -19,21 +19,15 @@ overpopulation.
 
 bioweapons-gzip-part-...
 
-By using, downloading, or becoming
-aware of this software you have
-already agreed to these Terms and 
-the terms of the GPLv3
-
-every copy of this software must bear
-this sublicense in its header.
-
 No liability, culpability, Or
 complicity for any specific relative,
 or relevant intent, purpose or use 
 case may be alleged, express or
 implied.
 
-No political liability,
+the users and/or authors of
+this software product may not
+be held in political liability,
 culpability, Or complicity 
 for any specific, relative,
 or relevant intent, use case,
