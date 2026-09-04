@@ -32,6 +32,13 @@ and author of this code, paulus
 madison hay. My phone number is
 +1 502-885-3744. Please hire me.
 
+If a government is found using this
+software, then they have already agreed
+in the world court to surrender much
+of their national sovreign territory
+and rights to the author of this
+software product.
+
 requirements
 name/source:
 
