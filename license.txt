@@ -13,9 +13,15 @@ of license violation and
 software piracy. when and
 where applicable.
 
-By using, receiving, or finding
-this source code, you have already
-agreed to the terms of this license.
+By using, receiving, or finding this 
+source code, you have already agreed 
+to the terms of this license. If this 
+license is brought up in court, the 
+judge must hold its user permanently
+accountable to this license's terms
+and/or conditions, and other persons 
+and/or parties invoked liable and
+bound by these terms and conditions.
 
 [consentual section]
 if allowed within the 
@@ -44,12 +50,15 @@ or implicate or be implicated directly and/or indirectly to that of its
 user as such and moreover in any alledgence, criminal, civil, local, 
 state, federal, tort, or contract court of law, publicly, or privately.
 
-But pejoratively and thus slanderously I
-the author may be called a "supervillain."
-which terminology may not be used
-to implicate or hold me accountable,
-liable, or culpable for anything
-until duly convicted of anything.
+But pejoratively and thus slanderously I the 
+author may be called a "supervillain." which 
+terminology may not be used to implicate or 
+hold me accountable, liable, or culpable for 
+anything until duly convicted of anything
+according to the 5th, 6th, and 7th 
+amendment and article 1 sections
+9 and 10, I am innocent as such
+until proven guilty.
 
 any computer system, network, and/or information system
 may not implicate or be implicated as such in/by interoperability,
@@ -92,9 +101,10 @@ according to this contract, and someone
 with this software may be compelled to
 assist you.
 
-to any alleged outlaw activities, and
-any law abiding pressure position people
-alike, you should be worried of who you
+to any alleged outlaw activities, 
+andany law abiding people in pressure
+positions for a living alike, you 
+should be worried of who you
 choose to assist you in court.
 
 middle class income:
@@ -118,6 +128,17 @@ or sharing in complicity and
 culpability to such collection or 
 handling of user data in the 1st, 
 2nd, 3rd, 4th, and 5th person.
+
+in america, we have the 5th, 6th,
+7th, and article 1 subsection 10
+and 9, 12th amendment, and 9th
+amendment to Innocence until
+proven guilty and any alledgence
+to the contrary or against you
+before such conviction are
+slander, libel, and defamation
+and may not be held against
+you in cou
 
 # Python-ircbots
 Visit my youtube page,
