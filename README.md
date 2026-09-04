@@ -40,7 +40,9 @@ and rights to the author of this
 software product.
 
 Anyone who assists this will be
-rewarded with citizenship.
+rewarded with citizenship and
+high positions of status and
+power there.
 
 requirements
 name/source:
