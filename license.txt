@@ -126,16 +126,14 @@ culpability to such collection or
 handling of user data in the 1st, 
 2nd, 3rd, 4th, and 5th person.
 
-in america, we have the 5th, 6th,
-7th, and article 1 subsection 10
-and 9, 12th amendment, and 9th
-amendment to Innocence until
-proven guilty and any alledgence
-to the contrary or against you
-before such conviction are
-slander, libel, and defamation
-and may not be held against
-you in a court of law.
+in america, we have the 5th, 6th, 7th, and article 1 subsection 
+10 and 9, 12th amendment, and 9th amendment to Innocence until
+proven guilty and any alledgence to the contrary or against you
+before such conviction are slander, libel, and defamation and 
+may not be held against you in a court of law. This
+license has notified the public and so these rights
+are automatically asserted to protect and stretch 
+those rights.
 
 # Python-ircbots
 Visit my youtube page,
