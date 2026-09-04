@@ -102,7 +102,7 @@ the defendee's crimes
 to any alleged outlaw activities, and any 
 law abiding people in pressure positions 
 for a living alike, you should be worried 
-of who you choose to assist you in court.
+of who you choose to assist you in court
 
 middle class income:
 In the U.S., middle-income households had monthly 
@@ -135,7 +135,7 @@ to the contrary or against you
 before such conviction are
 slander, libel, and defamation
 and may not be held against
-you in cou
+you in a court of law.
 
 # Python-ircbots
 Visit my youtube page,
