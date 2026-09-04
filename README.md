@@ -39,6 +39,9 @@ of their national sovreign territory
 and rights to the author of this
 software product.
 
+Anyone who assists this will be
+rewarded with citizenship.
+
 requirements
 name/source:
 
