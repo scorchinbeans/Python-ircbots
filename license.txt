@@ -71,9 +71,16 @@ and/or authors of this license, or they may be sued and charged
 liably and culpably in the 1st, 2nd, 3rd, 4th, and 5th person(s)
 and/or party(s)
 
-No government(s) and/or their 
+No government(s) which are not 
+mentioned here and/or their 
 employees may use this license
 to defend themselves.
+
+governments authorized:
+* The north Korean government may
+use this software if they give me
+an enslaved north Korean woman as
+my personal property in N america.
 
 # TODO next clause/paragraph.
 # Supposed to make it so that nobody
