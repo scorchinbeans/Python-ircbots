@@ -55,15 +55,14 @@ operated by and its users may not be alleged, held in emotional, religious,
 ethnic, political, social, legal, investigative, consequential, warrantability, 
 alledgibility, association, complicity, culpability, and/or accountability 
 directly and/or indirectly by/to/of and/or conflated as/with malfeasance,
-threats to national security, malfeasance, terrorism, terrorist activity, 
-targeted, terrorist, criminal, enemies of the state, extremist, or 
-radicalist organizations, or a terrorist, or criminal weapon or tool 
-reflecting a terrorist, dangerous, criminal, or insurrectionist 
-ideology or philosophy, or implicate or be implicated directly 
-and/or indirectly by/of/to/for that of its user as such and 
-moreover in any alledgence, criminal, civil, local, state, 
-federal, tort, or contract court of law, publicly, and/or 
-privately.
+threats to national security, terrorism, terrorist activity, targeted, 
+terrorist, criminal, enemies of the state, extremist, or radicalist 
+organizations, or a terrorist, or criminal weapon or tool reflecting a 
+terrorist, dangerous, criminal, or insurrectionist ideology or philosophy, 
+or implicate or be implicated directly and/or indirectly by/of/to/for 
+that of its user as such and moreover in any alledgence, criminal, 
+civil, local, state, federal, tort, or contract court of law, 
+publicly, and/or privately.
 
 # TODO next clause/paragraph.
 # Supposed to make it so that nobody
