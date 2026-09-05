@@ -72,7 +72,8 @@ liably and culpably in the 1st, 2nd, 3rd, 4th, and 5th person(s)
 and/or party(s)
 
 No governments and/or their 
-employees may use this license.
+employees may use this license
+to defend themselves.
 
 # TODO next clause/paragraph.
 # Supposed to make it so that nobody
