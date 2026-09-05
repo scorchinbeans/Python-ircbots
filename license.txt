@@ -53,7 +53,7 @@ federal, tort, or contract court of law, publicly, or privately.
 
 # TODO next clause.
 # Supposed to make it so that nobody
-can speak to accountability of me
+# can speak to accountability of me
 # or any of my implicated friends.
 # But we can implicate ourselves
 # all day without getting in
