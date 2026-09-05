@@ -112,13 +112,15 @@ be held in culpability to this
 software's license, users, and/or 
 authors.
 
+[consentual syndicalist 
+lawyer's union clause]
 If this clause is consented to, unless you
 have altered this license in any way, you agree 
 to use your lawyers to aid and protect other users'
 legal trials involving this contract and license,
 and to represent their complicity to it within
 the restricted context of enforcing this license
-if deemed possible, available, and affordable
+if possible, available, and affordable
 of anyone as wealthy as or wealthier than
 an average member of the middle class
 coloquially
@@ -149,6 +151,7 @@ middle class income:
 In the U.S., middle-income households had monthly 
 incomes ranging from about $4,717 to $14,150 in 2022 
 after adjusting for household size and cost of living.
+[End consentual syndicalist lawyer's union clause]
 
 # [end consentual section]
 This software product's behavior may
