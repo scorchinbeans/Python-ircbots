@@ -2,12 +2,24 @@ Author: Paulus Madison Hay
 License: GPL v3
 Commit date: Aug 4 2025
 
-No culpability or liability for 
-any actions, consequences, legal 
+warheadability means the thing's
+ability to be prepackaged and
+idiotproofed for like a soldier.
+Like a bomb which has a very
+simple interface. You drop
+it, and when/where it lands
+it will explode, and thats
+all the user needs to 
+understand.
+
+No warranty, culpability or liability
+for any actions, consequences, legal 
 or consequential damages, court 
-applicability, or favorability
-of/to/for/by the user(s) and/or
-authors of this software.
+applicability, warheadability, or 
+favorability of/to/for/by the 
+
+user(s) and/or authors of this 
+software.
 
 I may not be reached, accessed,
 and/or contacted except by my
