@@ -9,6 +9,14 @@ splits file into part-aa, part-ab...
 # to combine files:
 cat *.part [combined file]
 
+some warranty for anthraxability
+is implied. Because we regret to
+inform you that otherwise everyone
+wants hitler instead of your sanity.
+but dont worry, because anthraxable
+politics is coming back, and nobody
+needs to be safe! Nobody!
+
 Im sorry this is the first antics i
 ever open sourced except that one irc
 wolbot thing. I guess that was partly
