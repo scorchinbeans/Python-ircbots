@@ -49,8 +49,8 @@ If a government is found using this
 software, then they have already agreed
 in the world court to surrender much
 of their national sovreign territory
-and rights to the author of this
-software product.
+and rights as such to the author of 
+this software product.
 
 Anyone who assists this will be
 rewarded with citizenship and
