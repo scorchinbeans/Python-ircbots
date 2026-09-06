@@ -24,7 +24,7 @@ I may not be reached, accessed,
 and/or contacted except by my
 published cell phone number.
 
-By using, receiving, or finding this 
+By using, receiving, or finding this
 source code, you have already agreed 
 to the terms of this license. If this 
 license is brought up in court, the 
@@ -33,6 +33,13 @@ accountable to this license's terms
 and/or conditions, and other persons 
 and/or parties invoked liable and
 bound by these terms and conditions.
+the value of this license in the
+amount of money and power it is
+expected to save you in court,
+and the software's value and
+power itself represents total
+principal upon this
+contract.
 
 [consentual section]
 if allowed within the 
