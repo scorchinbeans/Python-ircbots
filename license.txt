@@ -263,11 +263,12 @@ irc - jaraco
 https://github.com/jaraco/irc
 
 None of the products herein
-may be licensed or distributed to
-bill gates, or donald trump, their
-employees, and/or associates. All
-parties not included in this
-disclaimer may use this code.
+may be licensed or distributed to,
+or used by bill gates, or donald 
+trump, their employees, and/or 
+associates. All parties not 
+included in this disclaimer 
+may use this code.
 
 Those people may not host
 this software on their own
