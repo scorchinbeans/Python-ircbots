@@ -95,10 +95,10 @@ and/or authors of this license, or they may be sued and charged
 liably and culpably in the 1st, 2nd, 3rd, 4th, and 5th person(s)
 and/or party(s)
 
-No government(s) which are not 
-mentioned here and/or their 
-employees may use this license
-to defend themselves.
+No government(s) which are not mentioned here 
+and/or their employees, and/or anyone standing 
+in complicity with/to/for them may use this 
+license to defend themselves.
 
 # TODO next clause/paragraph.
 # Supposed to make it so that nobody
@@ -283,9 +283,10 @@ None of the products herein
 may be licensed, distributed to,
 or used by bill gates, or donald 
 trump, their employees, and/or 
-associates. All parties not 
-included in this disclaimer 
-may use this code.
+associates, and/or anyone standing
+in complicity with/by/for/to
+them, may not use, see, or
+find this code.
 
 Those people may not host
 this software on their own
