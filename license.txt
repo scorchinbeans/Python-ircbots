@@ -62,7 +62,9 @@ and/or their employees, and/or anyone standing
 in complicity with/to/for them may use this 
 license to defend themselves, see this contract,
 and all derivative works must be bound by/to
-the same contract.
+the same contract, and feature the same
+contract at its header, or violators 
+will owe $10,0000 in damages.
 
 [consentual section]
 if allowed within the 
