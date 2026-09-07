@@ -98,7 +98,9 @@ and/or party(s)
 No government(s) which are not mentioned here 
 and/or their employees, and/or anyone standing 
 in complicity with/to/for them may use this 
-license to defend themselves.
+license to defend themselves, see this contract,
+and all derivative works must be bound by/to
+the same contract.
 
 # TODO next clause/paragraph.
 # Supposed to make it so that nobody
