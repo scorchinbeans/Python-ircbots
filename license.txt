@@ -263,7 +263,7 @@ irc - jaraco
 https://github.com/jaraco/irc
 
 None of the products herein
-may be licensed or distributed to,
+may be licensed, distributed to,
 or used by bill gates, or donald 
 trump, their employees, and/or 
 associates. All parties not 
