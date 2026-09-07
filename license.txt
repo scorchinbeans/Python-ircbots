@@ -265,7 +265,7 @@ https://github.com/jaraco/irc
 None of the products herein
 may be licensed or distributed to
 bill gates, or donald trump, their
-employees, or associates. All
+employees, and/or associates. All
 parties not included in this
 disclaimer may use this code.
 
