@@ -224,35 +224,17 @@ specific relative, or relevant intent,
 purpose or use case alleged, express
 or implied.
 
-Im sorry this is the first antics i
-ever open sourced except that one irc
-wolbot thing. I guess that was partly
-from another account owned by cslash
-at newgrounds.com.
-
-mine = Paulus madison Hay
-But the rest of this is mine and
-depends on some open source modules.
-You will need electrum installed and a
-wallet created therein and logged into
-when electrum -d is automatically
-invoked.
-
-To use, run botshell.py
-its usage should be documented
-within botshell.py.
-
-Side note: I am the maintainer
-and author of this code, paulus
-madison hay. My phone number is
-502-885-3744. Please hire me.
-
-I am using this software in its
-newest form, and so I am already
-bound by this license and contract.
-In that you have been so publicly
-notified, you must hold me bound
-by/to that license.
+If the user's version of this
+license on his device is not
+the latest version, then only
+the latest version's license
+here may be used. If such
+license is submitted even
+upon the defendant's property
+and submitted evidence at
+the time, it will be replaced
+with the latest version
+available here in court.
 
 Once so published in context
 to its certifiable publication
