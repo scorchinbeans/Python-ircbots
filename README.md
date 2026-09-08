@@ -47,8 +47,9 @@ Maybe call me, and give me some
 advice there.
 
 I may remove certain threatening
-stipulations of this code in exchange
-for owning Alaska as my own sovreign
+stipulations of this software's
+license in exchange for owning 
+Alaska as my own sovreign
 national territory with UN 
 representation.
 
