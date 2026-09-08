@@ -16,8 +16,8 @@ No warranty, culpability and/or
 liability for any actions, consequences, 
 legal or consequential damages, court 
 applicability, courtability, readability, 
-warheadability, or favorability of the
-user(s), authors, and/or the license
+warheadability, or favorability of/for/to
+the user(s), authors, and/or the license
 itself of this software may be expressed, 
 or implied.
 
