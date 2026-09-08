@@ -15,10 +15,10 @@ understand.
 No warranty, culpability and/or 
 liability for any actions, consequences, 
 legal or consequential damages, court 
-applicability, readability, warheadability, 
-or favorability of/to/for/by the user(s) 
-and/or authors of this software may
-be expressed or implied.
+applicability, courtability, readability, 
+warheadability, or favorability of/to/for/by 
+the user(s) and/or authors of this software 
+may be expressed or implied.
 
 I may not be reached, accessed,
 and/or contacted except by my
