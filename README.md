@@ -38,6 +38,13 @@ amendment and article 1 sections
 9 and 10, I am innocent as such
 until proven guilty.
 
+this software's license is tailored 
+to help you get away with breaking
+some laws maybe, but just remember
+that in america, a bitch ain't one.
+its not fair, I know. Maybe call
+me and give me some advice there.
+
 Im sorry this is the first antics i
 ever open sourced except that one irc
 wolbot thing. I guess that was partly
