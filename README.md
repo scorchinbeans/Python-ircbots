@@ -46,12 +46,13 @@ ain't one. its not fair, I know.
 Maybe call me, and give me some 
 advice there.
 
-I may remove certain threatening
-stipulations of this software's
-license in exchange for owning 
-Alaska as my own sovreign
-national territory with UN 
-representation.
+I may remove certain threatening stipulations 
+of this software's license in exchange for 
+owning the state and territory of Alaska 
+as my own sovreign national territory with 
+independent UN representation. as an
+independent and nationally sovreign
+country.
 
 Im sorry this is the first antics i
 ever open sourced except that one irc
