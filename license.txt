@@ -22,7 +22,6 @@ I may not be reached, accessed,
 and/or contacted except by my
 published cell phone number.
 
-I within this clause means the author.
 By using, receiving, or finding this
 source code, you have already agreed 
 to the terms of this license. If this 
@@ -39,6 +38,8 @@ and the software's value and
 power itself represents total
 principal upon this contract.
 
+I within the following paragraph
+means the author of this software.
 God must represent by the complicity
 with sin by/for/to this contract,
 if I go to a hell realm somewhere
