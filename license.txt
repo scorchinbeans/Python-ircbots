@@ -237,6 +237,11 @@ the time, it will be replaced
 with the latest version
 available here in court.
 
+Once the license is removed by
+the author, any extra copies
+and/or derivative works will/must
+be null and void.
+
 Once so published in context
 to its certifiable publication
 medium, such contract becomes
