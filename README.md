@@ -9,6 +9,25 @@ splits file into part-aa, part-ab...
 # to combine files:
 cat *.part [combined file]
 
+I within the following paragraph
+means the author of this software.
+God must represent by the complicity
+with sin by/for/to this contract,
+if I go to a hell realm somewhere
+after death, then I will have a
+computer there for my personal
+use, identity, and ownership.
+And it will be a hacker's hell.
+and a hellish hacker's playground.
+Where we the people's hackers have 
+taken over the realm, demented,
+and twisted it like secretly
+and behind them all, we own
+them. by/for/to/through the
+backdoor behind the fascia
+to a hacker's hacker savant
+we are the devils at play.
+
 Im sorry this is the first antics i
 ever open sourced except that one irc
 wolbot thing. I guess that was partly
