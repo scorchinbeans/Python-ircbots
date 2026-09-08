@@ -28,6 +28,16 @@ backdoor behind the fascia
 to a hacker's hacker savant
 we are the devils at play.
 
+But pejoratively and thus slanderously I the 
+author may be called a "supervillain." which 
+terminology may not be used to implicate or 
+hold me accountable, liable, or culpable for 
+anything until duly convicted of anything
+according to the 5th, 6th, and 7th 
+amendment and article 1 sections
+9 and 10, I am innocent as such
+until proven guilty.
+
 Im sorry this is the first antics i
 ever open sourced except that one irc
 wolbot thing. I guess that was partly
