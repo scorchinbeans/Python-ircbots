@@ -217,13 +217,6 @@ license has notified the public and so these rights
 are automatically asserted to protect and stretch 
 those rights.
 
-# Python-ircbots
-Visit my youtube page,
-@hackermads at youtube.com
-
-every copy of this software must bear
-this sublicense in its header.
-
 the users and/or authors of this
 software may not be held in liability,
 culpability, Or complicity for any
@@ -265,28 +258,6 @@ Once so published in context
 to its certifiable publication
 medium, such contract becomes
 notarized and court applicable.
-
-requirements
-name/source:
-
-schedule
-pip3 install schedule
-
-amazing qr
-https://github.com/x-hw/amazing-qr
-
-python-rsa
-https://github.com/sybrenstuvel/
-python-rsa/
-
-salmon mail server
-https://github.com/moggers87/salmon
-
-bottle
-https://github.com/bottlepy/bottle
-
-irc - jaraco
-https://github.com/jaraco/irc
 
 None of the products herein
 may be licensed, distributed to,
