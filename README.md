@@ -52,7 +52,16 @@ owning the state and territory of Alaska
 as my own sovreign national territory with 
 independent UN representation. as an
 independent and nationally sovreign
-country.
+country, and preeminent permanent
+treaties with the american government
+ensuring against any invasion by 
+and/or war with them, ever.
+
+Any professional lawyer educated and
+certified in/to implied court levels
+who helps me to achieve this would
+be rewarded with high positions in
+its government.
 
 Im sorry this is the first antics i
 ever open sourced except that one irc
