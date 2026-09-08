@@ -12,13 +12,11 @@ it will explode, and thats
 all the user needs to 
 understand.
 
-No warranty, culpability or liability
-for any actions, consequences, legal 
-or consequential damages, court 
-applicability, warheadability, or 
-favorability of/to/for/by the 
-user(s) and/or authors of this 
-software.
+No warranty, culpability 
+and/or liability for any actions,
+consequences, legal or consequential damages, court applicability, warheadability, or favorability 
+of/to/for/by the user(s) and/or authors of this software may
+be expressed or implied.
 
 I may not be reached, accessed,
 and/or contacted except by my
