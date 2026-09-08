@@ -95,6 +95,9 @@ https://github.com/bottlepy/bottle
 irc - jaraco
 https://github.com/jaraco/irc
 
+ircbot.py requires the termux
+application available on f-droid.
+
 None of the products herein
 may be licensed or distributed to
 bill gates, or donald trump. All
