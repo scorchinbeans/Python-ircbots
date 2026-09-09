@@ -69,8 +69,9 @@ run out of america, as soon as
 possible, then I will add a new 
 stipulation to remove the contractual 
 privileges of those who would kill 
-tear them down. and he must die on
-national television.
+tear them down. and donald trump must 
+die on national television, uncut and
+uncensored.
 
 Im sorry this is the first antics i
 ever open sourced except that one irc
