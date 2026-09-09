@@ -63,6 +63,13 @@ who helps me to achieve this would
 be rewarded with high positions in
 its government.
 
+If donald trump and his friends
+and cronies are not removed, as
+soon as possible, then I will add
+a new stipulation to remove the
+contractual privileges of those 
+who would kill tear them down.
+
 Im sorry this is the first antics i
 ever open sourced except that one irc
 wolbot thing. I guess that was partly
