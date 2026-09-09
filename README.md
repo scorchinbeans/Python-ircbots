@@ -65,11 +65,12 @@ its government.
 
 If donald trump's friends
 and cronies in the government
-and politics are not permanently run out of 
-america, as soon as possible, then 
-I will add a new stipulation to 
-remove the contractual privileges of those who would kill 
-tear them down. and donald trump must 
+and politics are not permanently 
+run out of america, as soon as 
+possible, then I will add a new 
+stipulation to remove the contractual 
+privileges of those who would tear 
+them down. and donald trump must 
 die on national television, uncut and
 uncensored.
 
