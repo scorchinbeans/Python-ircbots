@@ -71,8 +71,13 @@ possible, then I will add a new
 stipulation to remove the contractual 
 privileges of those who would tear 
 them down. and donald trump must 
-die on national television, uncut and
-uncensored.
+die on national television, uncut 
+and uncensored.
+
+If its done and I know its done because
+I couldn't miss all the havoc, I won't
+remove those stipulations for at most
+another year starting at Sep 8 2026.
 
 Im sorry this is the first antics i
 ever open sourced except that one irc
