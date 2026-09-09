@@ -63,12 +63,12 @@ who helps me to achieve this would
 be rewarded with high positions in
 its government.
 
-If donald trump and his friends
-and cronies are not permanently
-run out of america, as soon as 
-possible, then I will add a new 
-stipulation to remove the contractual 
-privileges of those who would kill 
+If donald trump's friends
+and cronies in the government
+and politics are not permanently run out of 
+america, as soon as possible, then 
+I will add a new stipulation to 
+remove the contractual privileges of those who would kill 
 tear them down. and donald trump must 
 die on national television, uncut and
 uncensored.
