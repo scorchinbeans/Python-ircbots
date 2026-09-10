@@ -44,10 +44,10 @@ principal upon this contract.
 
 No government(s) which are not mentioned here and/or 
 their employees, and/or anyone standing in complicity 
-with/to/for them may use this software and/or license 
-complex to defend themselves, see this contract,
-and all derivative works must be bound by/to
-the same contract, and feature the same
+with/to/for them besides the original author may use 
+this software and/or license complex to defend themselves, 
+see this contract, and all derivative works must be bound 
+by/to the same contract, and feature the same
 contract at its header, or violators 
 will owe $10,0000 in damages.
 
