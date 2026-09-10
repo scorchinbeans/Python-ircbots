@@ -1,6 +1,7 @@
 Author: Paulus Madison Hay
+
 License: GPL v3
-Commit date: Aug 4 2025
+and this amendment.
 
 warheadability means the thing's
 ability to be prepackaged and
