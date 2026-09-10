@@ -79,7 +79,9 @@ class pokergame:
 
         # Init self.bets.
         for p in self.players:
-            self.connection.privmsg(p, _license)
+            self.connection \
+             .privmsg(p, _license)
+            
             self.addrs[p] = ''
             self.bets[p] = 0
 
