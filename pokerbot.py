@@ -7,6 +7,7 @@ mainclass = 'pokerbot'
 import irc.bot
 _isweb = {}
 
+# Sample optional license.
 _license = """Anyone who owes money
 to the host of this gambling service
 has already agreed to these terms.
