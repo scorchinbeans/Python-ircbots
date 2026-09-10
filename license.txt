@@ -1,8 +1,7 @@
 Author: Paulus Madison Hay
 
-License: GPL v3
-and this amendment
-and addendum.
+License: GPL v3 + this
+amendment and addendum.
 
 warheadability means the thing's
 ability to be prepackaged and
