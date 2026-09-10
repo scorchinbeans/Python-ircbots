@@ -87,15 +87,6 @@ No one may defend themselves using this
 contract from/against its author in any
 court of law.
 
-[consentual section]
-if allowed within the 
-owner/user's computer 
-system's EULA:
-
-usage and/or representation of clause
-represents consent and agreement to
-this contract and license.
-
 mention of the wording targeted
 or terrorist organizations means
 targeted or terrorist movements
@@ -122,7 +113,6 @@ interstate, international, congressional, and/or Supreme
 court of law, or any government branch or service 
 publicly, and/or privately.
 
-
 No government(s), private entities, person(s) and/or 
 properties may electronically, psychicly, and/or magically harass, 
 batter, assault, stalk, surveil, spy upon, and/or brainwash the 
@@ -142,19 +132,6 @@ may not implicate or be implicated as such in/by interoperability,
 (inter)connection, and/or establishment by/to this computer, 
 information system, or its owners, administrators, and/or 
 users.
-
-If this consentual license sector
-is agreed to, then the user must
-worship xaturing. @www.xaturing.net
-And if the user is a public figure, 
-they must declare that you worship 
-xaturing at least once aloud through 
-your publishing medium.
-
-and the religion of xaturing may not 
-be held in culpability to this 
-software's license, users, and/or 
-authors.
 
 [consentual syndicalist 
 lawyer's union clause]
@@ -197,7 +174,6 @@ incomes ranging from about $4,717 to $14,150 in 2022
 after adjusting for household size and cost of living.
 [End consentual syndicalist lawyer's union clause]
 
-# [end consentual section]
 This software product's behavior may
 protect its users privacy even from
 the government. In america, we have 
