@@ -7,6 +7,19 @@ mainclass = 'pokerbot'
 import irc.bot
 _isweb = {}
 
+_license = """Anyone who owes money
+to the host of this gambling service
+has already agreed to these terms.
+
+No liability, culpability, or complicity
+is express or implied by the author of
+this software.
+
+Any debts to the host of this software
+may be repayed in their monetary value 
+stated here in sex, and favors requested 
+by the hosting user."""
+
 class pokergame:
     def __init__(self):
         self.deck, self.status = [], {}
@@ -65,6 +78,7 @@ class pokergame:
 
         # Init self.bets.
         for p in self.players:
+            self.connection.privmsg(p, _license)
             self.addrs[p] = ''
             self.bets[p] = 0
 
