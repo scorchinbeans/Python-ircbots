@@ -54,6 +54,24 @@
 # complicity in his slanderous
 # criminal trials and suits.
 
+# In a theory of capitalism, why
+# are you running this for other
+# strangers for free? totally
+# maybe for so much money to
+# be hustling connection this
+# way, but why for free anyway?
+# because tor is communist
+# to me
+
+# And why are you getting this
+# infinite secret spy connection
+# (7th, 6th amendment btw) for
+# free either?
+
+# Or sticking your criminal
+# hacker necks out for each
+# other for free?
+
 import irc.bot
 import irc.strings
 from irc.client import ip_numstr_to_quad, ip_quad_to_numstr
