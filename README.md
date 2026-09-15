@@ -46,34 +46,6 @@ ain't one. its not fair, I know.
 Maybe call me, and give me some 
 advice there.
 
-I may remove certain threatening stipulations 
-of this software's license in exchange for 
-owning the state and territory of Alaska 
-as my own sovreign national territory with 
-independent UN representation. as an
-independent and nationally sovreign
-country, and preeminent permanent
-treaties with the american government
-ensuring against any invasion by 
-and/or war with them, ever.
-
-Any professional lawyer educated and
-certified in/to implied court levels
-who helps me to achieve this would
-be rewarded with high positions in
-its government.
-
-If donald trump's friends
-and cronies in the government
-and politics are not permanently 
-run out of america, as soon as 
-possible, then I will add a new 
-stipulation to remove the contractual 
-privileges of those who would tear 
-them down. and donald trump must 
-die on national television, uncut 
-and uncensored.
-
 If its done and I know its done because
 I couldn't miss all the havoc, I won't
 remove those stipulations for at most
