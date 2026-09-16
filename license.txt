@@ -125,7 +125,7 @@ civil, local, state, federal, tort, contract, statutory,
 national, senate, probate, district, superior, circuit. 
 county, municipal, interstate, international, congressional, 
 and/or Supreme court of law, or any government branch 
-or service publicly, privately, and/or moreover.
+and/or service publicly, privately, and/or moreover.
 
 No government(s), private entities, person(s) and/or 
 properties may electronically, psychicly, and/or magically harass, 
