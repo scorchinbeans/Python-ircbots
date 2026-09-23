@@ -27,6 +27,19 @@
 # then the currency becomes worthless
 # eventually anyway.
 
+# It will make bitcoins into a street
+# currency and not just online, so it
+# becomes digital and street cash as
+# king.
+
+# This will increase the relevance,
+# fluidity, and acceleration of
+# bitcoins in the economy.
+
+# As well as circulation from HODLing
+# being the only way to save us from
+# the stagnation.
+
 # Requirements:
 amazingqr -- https://github.com/x-hw/amazing-qr
 rsa -- https://github.com/sybrenstuvel/python-rsa
