@@ -22,9 +22,11 @@ the user(s), authors, and/or the license
 itself of this software may be expressed, 
 or implied.
 
-I may not be reached, accessed,
-and/or contacted except by my
-published cell phone number.
+The author may not be reached, 
+accessed, and/or contacted except
+by his published cell phone number.
+Offenders to this paragraph may 
+be sued for harassment.
 
 By using, receiving, or finding this
 source code, you have already agreed 
