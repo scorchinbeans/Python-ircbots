@@ -10,9 +10,12 @@ will owe $10,0000 in damages.
 Countries:
 * None as yet.
 
-All remaining copies of the previous 
-license are now rendered in perpetuity 
-independent contracts to this one.
-And may still be applied seperately
-by anyone in posession of any copy
-of it.
+All remaining copies of the previous license 
+are now rendered in perpetuity independent 
+contracts to this one. And may still be 
+applied seperately by anyone in posession 
+of any copy of it. The author disclaims 
+all liability, culpability, and complicity
+to the existence of the previous license
+or any copy of it
+
