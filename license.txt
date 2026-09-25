@@ -52,8 +52,7 @@ this software and/or license complex to defend themselves,
 see this contract, and all derivative works must be bound 
 by/to the same contract, and feature the same
 contract at its header, or violating governments
-will owe the author $5,0000 in damages, and
-the user $5,000 seperately.
+will owe the author $5,0000 in damages.
 
 Governments:
 * Currently, none.
@@ -143,7 +142,7 @@ user(s) that this may represent in such is disclaimed. or they
 may be sued and charged liably and culpably in the 1st, 2nd, 
 3rd, 4th, and 5th person(s) and/or party(s). Any offending
 governments will owe the author $10,000, and seperately
-the user(s) $5,000 each.
+$5,000 each to the user(s) involved.
 
 No legal, social, ethnic, religious, and/or consequential
 liability, culpability, alledgibility, and/or accountability
