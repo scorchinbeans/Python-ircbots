@@ -73,6 +73,8 @@ Side note: I am the maintainer
 and author of this code, paulus
 madison hay. My phone number is
 +1 502-885-3744. Please hire me.
+Also my email address is:
+nspadmin@atomicmail.io.
 
 If a government is found using this
 software, then they have already agreed
