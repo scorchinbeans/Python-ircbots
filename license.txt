@@ -51,7 +51,7 @@ see this contract, and all derivative works must be bound
 by/to the same contract, and feature the same
 contract at its header, or violating governments
 will owe the author $5,0000 in damages, and
-the user(s) $5,000 seperately.
+the user $5,000 seperately.
 
 Governments:
 * Currently, none.
