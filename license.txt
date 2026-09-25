@@ -3,12 +3,6 @@ Author: Paulus Madison Hay
 License: GPL v3 + this
 amendment and addendum.
 
-when using this contract in
-a user's defense in any court
-of law, the user and/or court
-system must provide that user's
-email adress to the author.
-
 Whenever any case is won in defense
 using this license and contract, the
 court system must send an email to
