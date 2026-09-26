@@ -13,7 +13,7 @@ class electrum(boilerplate):
 
         tresp = self.resp
         self.connection.privmsg \
-         (self.wal, "electrum " + self.wal)
+         (self.wal, "electrum " + cmd)
         while self.resp == tresp: pass
         return self.resp
 
