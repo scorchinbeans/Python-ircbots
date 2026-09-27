@@ -1,6 +1,6 @@
 # Python-ircbots
 Visit my youtube page,
-@hackermads at youtube.com
+@hackermads(TM) at youtube.com
 
 # to split files:
 split -b [.part size] [file] part-
