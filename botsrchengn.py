@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 # (C) Paulus Madison Hay
-# License: gplv3
 
 # Is a search engine for bots. Scans
 # each channel's header and searches
