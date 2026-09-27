@@ -4,8 +4,7 @@ Visit my youtube page,
 youtube.com
 
 Cause you know that I can...
-https://youtu.be/aQZDbBGBJsM?
-is=A-icxuRLJC8A5yzf
+https://youtu.be/aQZDbBGBJsM?is=Hp4cH68IQo_xmerA
 
 # to split files:
 split -b [.part size] [file] part-
