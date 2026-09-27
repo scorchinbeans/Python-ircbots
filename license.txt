@@ -57,7 +57,10 @@ the act of hacking.) are established
 here as pejorative terms, definitions,
 and/or implications and may be charged 
 as slander by the holder of this 
-license.
+license, trademarks, and slander
+against the user's cryptofreedom(TM)
+and thus the cryptofreedom(TM)
+trademark as well.
 
 You may only aquire this software/license
 for free if such value represents the powers
