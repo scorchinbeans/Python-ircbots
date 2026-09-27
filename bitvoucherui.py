@@ -1,3 +1,4 @@
+(C) Paulus Madison Hay
 from bottle import route, run
 
 # This is the ui for bitvoucherbot
