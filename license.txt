@@ -64,7 +64,8 @@ License bug bounty:
   harassing them like its some kinda
   magic bullet threatening, I will
   give my half of the court findings
-  to the first one.
+  to the first one in using this
+  license.
 
 warheadability means the thing's
 ability to be prepackaged and
