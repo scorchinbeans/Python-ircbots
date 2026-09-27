@@ -1,5 +1,5 @@
 inLicense: BSD + Apache 2.0 license.
-+ this amendment and addendum.
++ this GOJF(TM) license.
 
 Copyright Aug 4 2025
 Paulus Madison Hay
