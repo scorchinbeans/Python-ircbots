@@ -1,5 +1,5 @@
 inLicense: BSD + Apache 2.0 license.
-+ this GOJF(TM) license.
++ this jailfreecard(TM) license.
 
 Copyright Aug 4 2025
 Paulus Madison Hay(TM)
