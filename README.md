@@ -46,11 +46,6 @@ ain't one. its not fair, I know.
 Maybe call me, and give me some 
 advice there.
 
-If its done and I know its done because
-I couldn't miss all the havoc, I won't
-remove those stipulations for at most
-another year starting at Sep 8 2026.
-
 Im sorry this is the first antics i
 ever open sourced except that one irc
 wolbot thing. I guess that was partly
