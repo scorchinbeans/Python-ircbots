@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 # (C) Paulus Madison Hay
-# License: GPL V3
 
 # This bot is intended to ultimately
 # sell any form of intuellectual work.
