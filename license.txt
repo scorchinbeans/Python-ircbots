@@ -50,7 +50,8 @@ OF SUCH DAMAGE
 Barnstorming(TM) (in reference to
 the act of hacking.) are established
 here as pejorative terms, and may
-be charged as slander.
+be charged as slander by the holder
+of this license.
 
 You may only aquire this software/license
 for free if such value represents the powers
