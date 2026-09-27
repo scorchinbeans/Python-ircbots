@@ -48,9 +48,9 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
 OF SUCH DAMAGE
 
 If Disney is using this software/license
-then they owe me the intellectual property
+then they owe the author the intellectual property
 Representing Pacifica northwest(TM) from
-gravity falls(TM).
+
 
 Barnstorming(TM) (in reference to
 the act of hacking.) are established
