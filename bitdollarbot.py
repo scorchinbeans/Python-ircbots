@@ -1,6 +1,7 @@
 # (C) Paulus Madison Hay
 # on: august 8 2024
 
+# bitvouchers(TM)
 # Bitvouchers are like a reserve
 # currency system. People put in bitcoins
 # and get out bitcoins. Right now its like
