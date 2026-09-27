@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+# (C) Paulus Madison Hay
 # Create an application which act as either an entrance
 # node, a continuance node, or an exit node. An entrance
 # node accepts a connection from the internet, then it
