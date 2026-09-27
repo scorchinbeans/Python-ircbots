@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #
-# 925268 - WALBOT
+# 925268 - WALBOT(TM)
 # IRC REST interface bitcoin
 # wallet. Recieves an electrum
 # shell command and outputs
