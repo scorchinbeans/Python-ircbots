@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# The advertron(TM) bot.
 # An irc advertisement robot.
 # (C) Paulus Madison Hay
 
