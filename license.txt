@@ -2,7 +2,7 @@ inLicense: BSD + Apache 2.0 license.
 + this GOJF(TM) license.
 
 Copyright Aug 4 2025
-Paulus Madison Hay
+Paulus Madison Hay(TM)
 
 Redistribution and use in source and binary 
 forms, with or without modification, are 
