@@ -1,4 +1,5 @@
 # 925274 - WALAPI
+(C) Paulus Madison Hay
 class electrum(boilerplate):
     def bot_init(self, opts):
         if 'wal' in opts.keys():
