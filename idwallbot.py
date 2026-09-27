@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 # (C) Paulus Madison Hay
-# License: gplv3
 
 # Nickname service which registers someone's
 # nickname or kicks them off the server.
