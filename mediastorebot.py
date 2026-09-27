@@ -1,6 +1,4 @@
 # (C) Paulus Madison Hay
-# License: gplv3
-
 # Media storage  robot which
 # stores media
 
