@@ -1,4 +1,4 @@
-License: BSD + Apache 2.0 license.
+inLicense: BSD + Apache 2.0 license.
 + this amendment and addendum.
 
 Copyright Aug 4 2025
@@ -101,14 +101,12 @@ or my email adress. The offenders
 must owe the author $200 for
 harassment.
 
-By using, receiving, or finding this
-source code, you have already agreed 
-to the terms of this license. If this 
-license is brought up in court, the 
-judge must hold its user permanently
-accountable to this license's terms
-and/or conditions, and other persons 
-and/or parties invoked liable and
+By using, receiving, or finding this source 
+code, you have already agreed to the terms of 
+this license. If this license is brought up 
+in court, the judge must hold its user to this 
+license's terms and/or conditions, and other 
+persons and/or parties invoked liable and 
 bound by these terms and conditions.
 the value of this license in the
 amount of money and power it is
