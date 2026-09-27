@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 # (C) Paulus Madison Hay
+# lancemesh(TM) jobsbot.
 
 # This bot is intended to ultimately
 # sell any form of intuellectual work.
