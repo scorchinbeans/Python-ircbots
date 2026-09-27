@@ -1,8 +1,7 @@
 License: BSD + Apache 2.0 license.
 + this lösjailcard(C)(TM) license.
-
-Copyright Aug 4 2025
-Paulus Madison Hay(TM)
+author: Paulus Madison Hay(TM)
+Copywright Aug 4 2025
 
 Redistribution and use in source and binary 
 forms, with or without modification, are 
@@ -48,9 +47,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
 OF SUCH DAMAGE
 
 If Disney is using this software/license
-then they owe the author the intellectual property
-Representing Pacifica northwest(TM) from
-
+then they owe the author the intellectual 
+property Representing Pacifica northwest(TM) 
+from gravity falls(TM) to be transitioned
+to the author in court.
 
 Barnstorming(TM) (in reference to
 the act of hacking.) are established
