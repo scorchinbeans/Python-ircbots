@@ -5,6 +5,7 @@
 # wallet. Recieves an electrum
 # shell command and outputs
 # electrum's json output.
+# (C) Paulus Madison Hay
 
 import irc.bot
 import irc.strings
