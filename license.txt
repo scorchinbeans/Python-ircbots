@@ -48,9 +48,9 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
 OF SUCH DAMAGE
 
 Barnstorming(TM) (in reference to
-the act of committing a kentucky 
-krs 434.845 eg.) is established
-here as a pejorative term.
+the act of hacking.) are established
+here as pejorative terms, and may
+be charged as slander.
 
 You may only aquire this software/license
 for free if such value represents the powers
