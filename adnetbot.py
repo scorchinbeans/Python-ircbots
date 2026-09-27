@@ -10,7 +10,7 @@ from bot_boilerplate import boilerplate
 from irc.client import ip_numstr_to_quad
 from irc.client import ip_quad_to_numstr
 from os.path import exists
-mainclass = 'adnetbot'
+mainclass = 'advertronbot'
 from os import system
 from time import time
 import schedule
