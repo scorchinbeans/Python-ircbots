@@ -52,7 +52,19 @@ using this license and contract, the
 court system must send an email to
 the author's stated email adress
 to recieve an invoice to send the
-author any of his findings.
+author any of his findings, and
+a bounty is placed upon answers
+to certain questions concerning
+the trial concerning the author
+is detailed in the next paragraph.
+
+License bug bounty:
+* If anyone tells me how they managed
+  to sue someone for telepathically
+  harassing them like its some kinda
+  magic bullet threatening, I will
+  give my half of the court findings
+  to the first one.
 
 warheadability means the thing's
 ability to be prepackaged and
