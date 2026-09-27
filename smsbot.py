@@ -1,3 +1,5 @@
+# (C) Paulus Madison Hay
+
 import irc.bot
 import irc.strings
 from irc.client import \
