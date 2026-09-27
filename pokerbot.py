@@ -1,3 +1,4 @@
+(C) Paulus Madison Hay
 from bot_boilerplate import boilerplate
 from os import system, popen
 from schedule import repeat
