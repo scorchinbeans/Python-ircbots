@@ -1,7 +1,7 @@
 License: BSD + Apache 2.0 license.
 + this amendment and addendum.
 
-Copyright [First published year] 
+Copyright Aug 4 2025
 Paulus Madison Hay
 
 Redistribution and use in source and binary 
