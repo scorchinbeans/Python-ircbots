@@ -47,9 +47,13 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY 
 OF SUCH DAMAGE
 
-YYou may only aquire this software/license
+You may only aquire this software/license
 for free if such value represents the powers
-of this contract and your consent thereto.
+and principal of this contract and your 
+consent thereto. Otherwise you may owe
+the software product's cash/BTC value
+to the author upon discovery and 
+violation of any of its terms.
 
 Whenever any case is won in defense
 using this license and contract, the
@@ -110,8 +114,9 @@ the value of this license in the
 amount of money and power it is
 expected to save you in court,
 and the software's value and
-power itself represents total
-principal upon this contract.
+power itself represents a value
+added to the total principal 
+upon this contract.
 
 No government(s) which are not cited by the following list
 and/or their employees, and/or anyone standing in complicity 
