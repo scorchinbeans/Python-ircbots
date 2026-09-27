@@ -1,6 +1,7 @@
 (C) Paulus Madison Hay
 from bottle import route, run
 
+# bitvoucher(TM) user interface.
 # This is the ui for bitvoucherbot
 # to place the qr code on the dollars.
 # As yet it's unfinished.
