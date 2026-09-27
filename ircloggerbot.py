@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 # (C) Paulus Madison Hay
-# License: gplv3
 
 # Logs irc traffic on every channel
 # it is commanded to join.
