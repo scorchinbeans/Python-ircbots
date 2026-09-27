@@ -1,4 +1,4 @@
-# By: Paulus Madison Hay
+# (C) Paulus Madison Hay
 # on: august 8 2024
 
 # Bitvouchers are like a reserve
