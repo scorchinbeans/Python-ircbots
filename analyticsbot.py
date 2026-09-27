@@ -1,5 +1,4 @@
 # (C) Paulus Madison Hay
-# License: gplv3
 
 from bot_boilerplate import boilerplate
 from threading import Thread
