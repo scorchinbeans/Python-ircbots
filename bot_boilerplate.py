@@ -1,6 +1,4 @@
 # (C) Paulus Madison Hay
-# License: gplv3
-
 import ssl, functools
 import irc.bot, irc.client
 class boilerplate(irc.bot.SingleServerIRCBot):
