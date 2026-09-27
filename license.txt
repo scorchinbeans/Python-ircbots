@@ -1,6 +1,6 @@
 Author: Paulus Madison Hay
 
-License: GPL v3 + this
+License: BSD + this
 amendment and addendum.
 
 Whenever any case is won in defense
