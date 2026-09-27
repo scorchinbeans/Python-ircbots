@@ -1,5 +1,5 @@
-License: BSD + this
-amendment and addendum.
+License: BSD + Apache 2.0 license.
++ this amendment and addendum.
 
 Copyright [First published year] 
 Paulus Madison Hay
