@@ -3,6 +3,10 @@ Visit my youtube page,
 @hackermads(TM) at 
 youtube.com
 
+Cause you know that I can...
+https://youtu.be/aQZDbBGBJsM?
+is=A-icxuRLJC8A5yzf
+
 # to split files:
 split -b [.part size] [file] part-
 splits file into part-aa, part-ab...
