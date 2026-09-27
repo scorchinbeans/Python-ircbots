@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 # (C) Paulus Madison Hay
+# Wollynet(TM) wolbot.
 
 import irc.bot
 import irc.strings
