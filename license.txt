@@ -1,5 +1,5 @@
 License: BSD + Apache 2.0 license.
-+ this lösjailcard(TM) license.
++ this lösjailcard(C)(TM) license.
 
 Copyright Aug 4 2025
 Paulus Madison Hay(TM)
