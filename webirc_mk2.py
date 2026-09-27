@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 # (C) Paulus Madison Hay
-# License: gplv3
 
 # The bottle IRC server.
 # This one will try to incorporate brython to
