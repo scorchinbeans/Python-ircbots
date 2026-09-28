@@ -141,8 +141,8 @@ upon this contract.
 
 No government(s) which are not cited by the following list
 and/or their employees, and/or anyone standing in complicity 
-with/to/for them besides the original author may use 
-this software and/or license complex to defend themselves, 
+with/to/for them besides potentially the original author may 
+use this software and/or license complex to defend themselves, 
 see this contract, and all derivative works must be bound 
 by/to the same contract, and feature the same
 contract at its header, or violating governments
