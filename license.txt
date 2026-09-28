@@ -377,7 +377,7 @@ purpose or use case alleged, express
 or implied.
 
 If the user's version of this
-license on his device is not
+license on his/her device is not
 the latest version, then only
 the latest version's license
 here may be used. If such
