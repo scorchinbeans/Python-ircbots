@@ -20,6 +20,9 @@ Thats how they're the scariest tinkers,
 tailors, soldiers, and spies. And in the
 end, they can do whatever they want.
 
+And in the end, do whatever 
+you want; with that information.
+
 # Python-ircbots
 Visit my youtube page, 
 @hackermads(TM) at 
