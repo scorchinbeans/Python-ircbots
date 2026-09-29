@@ -6,6 +6,12 @@ youtube.com
 Cause you know that I can...
 https://youtu.be/aQZDbBGBJsM?is=Hp4cH68IQo_xmerA
 
+Blackhat here! For purposes
+of parody, satire, and the
+prurient interest...
+
+https://youtu.be/Jj80T5QlCBo?is=kZjudKWsbvo4CmkA
+
 # to split files:
 split -b [.part size] [file] part-
 splits file into part-aa, part-ab...
