@@ -12,9 +12,9 @@ of these philosophies is that
 they know everything better
 than the ones who built it.
 
-And as such they can reverse 
-engineer anything, take over 
-everything, and take over.
+And as such they can reverse engineer 
+anything, take over everything, and 
+take over the world.
 
 # Python-ircbots
 Visit my youtube page, 
