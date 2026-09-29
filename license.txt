@@ -154,7 +154,10 @@ pejorative term/definition/implication
 which may be charged as slander, 
 defamation, and libel upon its 
 utterance, which in court represents 
-a false trial.
+a false trial, and $5,000 will be
+awarded to the user(s) each and
+$10,000 will be awarded to the
+author upon its closure.
 
 You may only aquire this software/license
 for free if such value represents the powers
