@@ -158,12 +158,12 @@ the trial concerning the author
 is detailed in the next paragraph.
 
 License bug bounty:
-* If anyone tells me how they managed
-  to sue someone for telepathically
+* If anyone tells the author how they 
+  managed to sue someone for telepathically
   harassing them like its some kinda
-  magic bullet threatening, I will
-  give my half of the court findings
-  to the first one in using this
+  magic bullet threatening, he will
+  give his half of the court findings
+  to the first caller in using this
   license.
 
 * If anyone emails me and tells me how they 
