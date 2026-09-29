@@ -16,6 +16,10 @@ And as such they can reverse engineer
 anything, take over everything, and 
 take over the world.
 
+Thats how they're the scariest tinkers,
+tailors, soldiers, and spies. And in the
+end, they can do whatever they want.
+
 # Python-ircbots
 Visit my youtube page, 
 @hackermads(TM) at 
