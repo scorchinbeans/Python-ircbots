@@ -222,19 +222,16 @@ or my email adress. The offenders
 must owe the author $200 for
 harassment.
 
-By using, receiving, or finding this source 
-code, you have already agreed to the terms of 
-this license. If this license is brought up 
-in court, the judge must hold its user to this 
-license's terms and/or conditions, and other 
-persons and/or parties invoked liable and 
-bound by these terms and conditions.
-the value of this license in the
-amount of money and power it is
-expected to save you in court,
-and the software's value and
-power itself represents a value
-added to the total principal 
+By using, receiving, or finding this source code, 
+you have already agreed to the terms of this license. 
+If this license is brought up in court, or submitted 
+as evidence, the judge and enforcement officers must 
+hold its user to this license's terms and/or conditions, 
+and other persons and/or parties invoked liable to and 
+bound by these terms and conditions. the value of this 
+license in the amount of money and power it is expected
+to save you in court, and the software's value and power 
+itself represents a value added to the total principal 
 upon this contract.
 
 No government(s) which are not cited by the following list
