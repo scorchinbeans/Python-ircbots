@@ -1,3 +1,12 @@
+Inversionist(tm) hackerazzi(tm)
+strategem:
+
+The hackerazzi(tm) are the hackers
+and their fanatical spiritualities.
+These lead them only into stranger
+and more unique places in every
+industry globally.
+
 # Python-ircbots
 Visit my youtube page, 
 @hackermads(TM) at 
