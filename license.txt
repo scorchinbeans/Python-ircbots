@@ -1,5 +1,7 @@
-License: BSD + Apache 2.0 license.
-+ this murderpocalypse(C)(TM) license.
+License: BSD, Apache 2.0 license,
+and this murderpocalypse(C)(TM) 
+license.
+
 author: Paulus Madison Hay(TM)
 Copywright Aug 4 2025
 
