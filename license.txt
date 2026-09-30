@@ -47,7 +47,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
 OF SUCH DAMAGE
 
 Redistrobutions or derivative works
-must include BW-
+must include BW-pdf-part-?? files
+wwith such distributions.
 
 If Disney is found or held using this 
 software/license then they owe the author 
