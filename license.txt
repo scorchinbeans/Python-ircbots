@@ -46,6 +46,15 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY 
 OF SUCH DAMAGE
 
+The murderpocalypse(TM) license, BSD, and 
+apache 2.0 licenses are to be treated as 
+seperate licenses to one another seperately 
+culpable to justice, and thus any convictions
+that the murderpocalypse is unconscionable
+may not affect its bsd or apache licenses
+and their viability in securing this work
+as intellectual property.
+
 Redistrobutions or derivative works
 must include BW-pdf-part-?? files
 with such distributions. And those
