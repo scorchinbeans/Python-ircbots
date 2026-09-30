@@ -48,7 +48,9 @@ OF SUCH DAMAGE
 
 Redistrobutions or derivative works
 must include BW-pdf-part-?? files
-wwith such distributions.
+with such distributions. And those
+files may not be altered, but only
+encrypted or obscured.
 
 If Disney is found or held using this 
 software/license then they owe the author 
