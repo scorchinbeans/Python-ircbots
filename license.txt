@@ -14,11 +14,6 @@ may not affect its bsd or apache licenses
 and their viability in securing this work
 as intellectual property.
 
-The murderpocalypse(tm) license may 
-only protect Caucasian users to commit 
-any crimes beyond what merely the BSD
-and apache 2.0 license protect.
-
 Redistrobutions or derivative works
 must include BW-pdf-part-?? files
 with such distributions. And those
