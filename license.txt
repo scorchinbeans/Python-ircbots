@@ -14,6 +14,12 @@ may not affect its bsd or apache licenses
 and their viability in securing this work
 as intellectual property.
 
+It is in direct violation of the 5th
+amendment and krs 434.855 to decrypt
+any encrypted file included in this
+project without direct prior written
+authorization by the author.
+
 If Disney is found or held using this 
 software/license then they owe the author 
 the intellectual and spiritual tulpa/property 
