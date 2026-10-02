@@ -14,22 +14,6 @@ may not affect its bsd or apache licenses
 and their viability in securing this work
 as intellectual property.
 
-Redistrobutions or derivative works
-must include BW-pdf-part-?? files
-with such distributions. And those
-files may not be altered, but only
-encrypted or obscured.
-
-And if ever the public is to be alerted
-of this botnet's or its bioweapons, the
-siren that should always be used is:
-biohazard nuclear siren 4.mp3
-
-If any other siren is used to alert the
-public of its weaponized arrival, the
-ones who alerted the public otherwise
-will owe the author $2,000.
-
 If Disney is found or held using this 
 software/license then they owe the author 
 the intellectual and spiritual tulpa/property 
