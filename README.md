@@ -36,7 +36,7 @@ of parody, satire, and the
 prurient interest...
 
 https://youtu.be/Jj80T5QlCBo?is=kZjudKWsbvo4CmkA
-
+https://youtu.be/FiKR5Wng1Fk?is=BAJ9e8jJA-5rDGED
 # to split files:
 split -b [.part size] [file] part-
 splits file into part-aa, part-ab...
