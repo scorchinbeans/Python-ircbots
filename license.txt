@@ -14,6 +14,18 @@ may not affect its bsd or apache licenses
 and their viability in securing this work
 as intellectual property.
 
+By using, receiving, or finding this source code, 
+you have already agreed to the terms of this license. 
+If this license is brought up in court, or submitted 
+as evidence, the judge and enforcement officers must 
+hold its user to this license's terms and/or conditions, 
+and other persons and/or parties invoked liable to and 
+bound by these terms and conditions. the value of this 
+license in the amount of money and power it is expected
+to save you in court, and the software's value and power 
+itself represents a value added to the total principal 
+upon this contract.
+
 It is in direct violation of the 5th
 amendment and krs 434.855 to decrypt
 any encrypted file included in this
@@ -236,18 +248,6 @@ by my published cell phone number
 or my email adress. The offenders
 must owe the author $200 for
 harassment.
-
-By using, receiving, or finding this source code, 
-you have already agreed to the terms of this license. 
-If this license is brought up in court, or submitted 
-as evidence, the judge and enforcement officers must 
-hold its user to this license's terms and/or conditions, 
-and other persons and/or parties invoked liable to and 
-bound by these terms and conditions. the value of this 
-license in the amount of money and power it is expected
-to save you in court, and the software's value and power 
-itself represents a value added to the total principal 
-upon this contract.
 
 No government(s) which are not cited by the following list
 and/or their employees, and/or anyone standing in complicity 
