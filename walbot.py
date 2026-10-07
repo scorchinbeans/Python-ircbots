@@ -13,7 +13,8 @@ import irc.strings
 from irc.client import ip_numstr_to_quad, ip_quad_to_numstr
 from bot_boilerplate import boilerplate
 walad = os.path.abspath(__file__)
-from os import system, environ
+from os import system as sys
+from os import environ
 import socket, struct
 mainclass = 'walbot'
 
@@ -48,5 +49,5 @@ class walbot(boilerplate):
         if cmd[0] == "!logout":
             tc = f'electrum -w {walad}/{cmd[1]}' \
              'close_wallet -W {cmd[2]}'
-            self.acct = ''
-            system(tc)
+            status = os .WEXITSTATUS(sys(tc))
+            if status != 0: self.acct = ''
