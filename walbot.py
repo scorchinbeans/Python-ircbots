@@ -41,7 +41,7 @@ class walbot(boilerplate):
             e.privmsg(e.source.nick, x)
 
         if cmd[0] == "!login":
-            tc = f"electrum -w {walad}/{cmd[1]}"
+            tc = f"electrum -w {walad}/{cmd[1]}" \
              f" load_wallet -W {cmd[1]}"
             status = os .WEXITSTATUS (sys(tc))
             if status != 0: self.acct = cmd[1]
