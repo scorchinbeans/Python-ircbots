@@ -23,8 +23,6 @@ class electrum(boilerplate):
         while self.resp == tresp: pass
         return self.resp
 
-    def 
-
     def on_privmsg(self, c, e):
         if e.source.nick = self.wal:
             self.resp = e.arguments[0]
