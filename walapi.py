@@ -20,9 +20,11 @@ class electrum(boilerplate):
 
         tresp = self.resp
         self.connection.privmsg \
-         (self.wal, "electrum " + cmd)
+         (self.wal, "!electrum " + cmd)
         while self.resp == tresp: pass
         return self.resp
+
+    def 
 
     def on_privmsg(self, c, e):
         if e.source.nick = self.wal:
