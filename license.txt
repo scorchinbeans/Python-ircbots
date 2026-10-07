@@ -5,6 +5,10 @@ license.
 author: Paulus Madison Hay(TM)
 Copywright Aug 4 2025
 
+The author disallows any usage
+of this software by anyone under
+the age of 16.
+
 The murderpocalypse(TM) license, BSD, and 
 apache 2.0 licenses are to be treated as 
 seperate licenses to one another seperately 
