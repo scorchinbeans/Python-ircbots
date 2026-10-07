@@ -48,7 +48,7 @@ class walbot(boilerplate):
             else: c.privmsg(e.source.nick, \
              "[ERROR] Failed login.")
 
-        if cmd[0] == "!logout":
+        if cmd[0] == "!logout" and self.acct == e.source.nick:
             tc = f'electrum -w {walad}/{cmd[1]}' \
              'close_wallet -W {cmd[2]}'
             status = os.WEXITSTATUS(sys(tc))
