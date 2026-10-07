@@ -1,6 +1,8 @@
 # 925274 - WALAPI
 (C) Paulus Madison Hay
 from shutil import which
+from os import popen
+
 class electrum(boilerplate):
     def bot_init(self, opts):
         self.wal = None
