@@ -9,8 +9,7 @@ class electrum(boilerplate):
         if 'wal' in opts.keys():
             self.wal = opts['wal']
 
-        else:
-            if which(electrum):
+        elif which(electrum):
                 self.wal = True
 
     def wallet(cmd):
