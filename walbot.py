@@ -46,7 +46,7 @@ class walbot(boilerplate):
             status = os .WEXITSTATUS (sys(tc))
             if status != 0: self.acct = cmd[1]
             else: c.privmsg(e.source.nick, \
-             "Failed to log in.")
+             "[ERROR] Failed login.")
 
         if cmd[0] == "!logout":
             tc = f'electrum -w {walad}/{cmd[1]}' \
@@ -54,4 +54,4 @@ class walbot(boilerplate):
             status = os.WEXITSTATUS(sys(tc))
             if status != 0: self.acct = ''
             else: c.privmsg(e.source.nick, \
-             "Failed to log out.")
+             "[ERROR] Failed logout.")
