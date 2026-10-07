@@ -28,7 +28,7 @@ class walbot(boilerplate):
 
     def on_privmsg(self, c, e):
         cmd = e.arguments[0].split(' ')
-        if cmd[0] == "!electrum":
+        if cmd[0] == "!electrum" and self.acct:
             cmd = ' '.join(cmd[1:])
             x = popen('electrum %s' % cmd, 'r')
             e.privmsg(e.source.nick, x.read ())
@@ -38,3 +38,15 @@ class walbot(boilerplate):
              f' create --password "{cmd[2]}"'
             x = popen(tc + cmd[1], 'r').read()
             e.privmsg(e.source.nick, x)
+
+        if cmd[0] == "!login":
+            tc = f"electrum -w {walad}/{cmd[1]}"
+             f" load_wallet -W {cmd[1]}"
+            self.acct = cmd[1]
+            system(tc)
+
+        if cmd[0] == "!logout":
+            tc = f'electrum -w {walad}/{cmd[1]}' \
+             'close_wallet -W {cmd[2]}'
+            self.acct = ''
+            system(tc)
