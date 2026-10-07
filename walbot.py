@@ -7,10 +7,12 @@
 # electrum's json output.
 # (C) Paulus Madison Hay
 
+import os
 import irc.bot
 import irc.strings
 from irc.client import ip_numstr_to_quad, ip_quad_to_numstr
 from bot_boilerplate import boilerplate
+walad = os.path.abspath(__file__)
 from os import system, environ
 import socket, struct
 mainclass = 'walbot'
