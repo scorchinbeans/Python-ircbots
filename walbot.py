@@ -38,16 +38,20 @@ class walbot(boilerplate):
             tc = f'electrum {walad}/{cmd[1]}' \
              f' create --password "{cmd[2]}"'
             x = popen(tc + cmd[1], 'r').read()
-            e.privmsg(e.source.nick, x)
+            c.privmsg(e.source.nick, x)
 
         if cmd[0] == "!login":
             tc = f"electrum -w {walad}/{cmd[1]}" \
              f" load_wallet -W {cmd[1]}"
             status = os .WEXITSTATUS (sys(tc))
             if status != 0: self.acct = cmd[1]
+            else: c.privmsg(e.source.nick, \
+             "Failed to log in.")
 
         if cmd[0] == "!logout":
             tc = f'electrum -w {walad}/{cmd[1]}' \
              'close_wallet -W {cmd[2]}'
-            status = os .WEXITSTATUS(sys(tc))
+            status = os.WEXITSTATUS(sys(tc))
             if status != 0: self.acct = ''
+            else: c.privmsg(e.source.nick, \
+             "Failed to log out.")
