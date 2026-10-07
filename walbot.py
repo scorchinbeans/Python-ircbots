@@ -29,7 +29,7 @@ class walbot(boilerplate):
 
     def on_privmsg(self, c, e):
         cmd = e.arguments[0].split(' ')
-        if cmd[0] == "!electrum" and self.acct:
+        if cmd[0] == "!electrum" and self.acct == e.source.nick:
             cmd = ' '.join(cmd[1:])
             x = popen('electrum %s' % cmd, 'r')
             e.privmsg(e.source.nick, x.read ())
@@ -44,7 +44,7 @@ class walbot(boilerplate):
             tc = f"electrum -w {walad}/{cmd[1]}" \
              f" load_wallet -W {cmd[1]}"
             status = os .WEXITSTATUS (sys(tc))
-            if status != 0: self.acct = cmd[1]
+            if status != 0: self.acct = e.source.nick
             else: c.privmsg(e.source.nick, \
              "[ERROR] Failed login.")
 
