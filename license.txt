@@ -569,9 +569,11 @@ trump, their employees, and/or
 associates, and/or anyone standing
 in complicity with/by/for/to
 them, besides potentially the 
-author, unless under duress,
-may use, see, or find this 
-code.
+author, unless they are forced
+against their own will by them
+may use, see, find, or create
+derivative works of this code
+or especially this license.
 
 Those people may not host
 this software on their own
