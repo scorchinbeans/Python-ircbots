@@ -23,6 +23,21 @@ end, they can do whatever they want.
 And in the end, do whatever you 
 want; with that information.
 
+None of the business activities or
+practices enacted within the source
+code of this software product are
+intended to be canonically fraudulent.
+That is, in the original protected
+version of this source code.
+
+If any of this source code in its
+original form downloaded from this
+web service directly is perceived
+to exhibit directly fraudulent
+activities, please call me and
+I'll either confirm my intentions
+or I'll correct the source code.
+
 # Python-ircbots
 Visit my youtube page, 
 @hackermads(TM) at 
