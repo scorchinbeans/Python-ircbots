@@ -81,9 +81,11 @@ exchanged with the terms "port" and
 criminal trial.
 
 Juno Rattle(tm) is the trademarked
-character name of this botnet's
-mascot. Its now trademarked likeness
-is stored in the file junorattle.jpg.
+character of this botnet's mascot. 
+Its herein trademarked likeness,
+tulpa, and name are stored/
+represented in the file 
+junorattle.jpg.
 
 SEP 29 2026 15:23 EST.
 Hackerazzi(TM) a term/definition/implication
