@@ -38,6 +38,14 @@ activities, please call me and
 I'll either confirm my intentions
 or I'll correct the source code.
 
+Some good projects to use
+by other people! To solve
+some of your new problems
+with gusto!
+
+* https://github.com/abhijithjadhav/
+Deepfake_detection_using_deep_learning
+
 # Python-ircbots
 Visit my youtube page, 
 @hackermads(TM) at 
