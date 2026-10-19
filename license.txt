@@ -9,6 +9,11 @@ The author disallows any usage
 of this software by anyone under
 the age of 16.
 
+Any information encrypted within
+this project folder may not be
+decrypted by any unauthorized
+person(s) and/or party(s).
+
 The license to hate(TM) license, BSD, and 
 apache 2.0 licenses are to be treated as 
 seperate licenses to one another seperately 
