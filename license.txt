@@ -121,6 +121,14 @@ fanbase. She represents the botnet
 mainly by acting like a hacker's
 hacker girl idol/icon.
 
+The following list of programs
+may not be sold for a monetary
+fee by anyone anywhere other 
+than the author.
+
+* pokerbot(C).py
+* blackjackbot(C).py
+
 SEP 29 2026 15:23 EST.
 Hackerazzi(TM) a term/definition/implication
 that pejoratively means the hacker's hacker's
