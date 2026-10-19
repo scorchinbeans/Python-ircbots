@@ -37,8 +37,10 @@ upon this contract.
 
 It is in direct violation of the 5th
 amendment and krs 434.855 to decrypt
-any encrypted file included in this
-project without direct prior written
+steganalyze, or deobfuscate any encrypted
+encyphered, or steganographically hidden
+file, data, or information included in/by
+this project without direct prior written
 authorization by the author.
 
 If banijay kids & family is found using this 
