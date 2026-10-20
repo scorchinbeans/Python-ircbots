@@ -46,6 +46,9 @@ with gusto!
 * https://github.com/abhijithjadhav/
 Deepfake_detection_using_deep_learning
 
+* https://github.com/subinium/
+awesome-deepfake-porn-detection
+
 # Python-ircbots
 Visit my youtube page, 
 @hackermads(TM) at 
