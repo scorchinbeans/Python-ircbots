@@ -101,9 +101,10 @@ mistrial.
 Any attribution of this or any
 license agreement or the nature
 of any software product in question
-to any political ideology, movement,
-or party affiliation is to be
-treated as slander and mistrial.
+to any economic/political ideology, 
+movement, or party affiliation is 
+to be treated as slander and 
+mistrial.
 
 Juno Rattle(tm) is the trademarked
 character of this botnet's mascot. 
