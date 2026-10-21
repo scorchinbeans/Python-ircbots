@@ -34,9 +34,10 @@ If any of this source code in its
 original form downloaded from this
 web service directly is perceived
 to exhibit directly fraudulent
-activities, please call me and
-I'll either confirm my intentions
-or I'll correct the source code.
+activities inherent to its design
+please call me and I'll either 
+confirm my intentions or I'll 
+correct the source code.
 
 Some good projects to use
 by other people! To solve
