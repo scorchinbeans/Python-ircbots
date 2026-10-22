@@ -39,14 +39,14 @@ please call me and I'll either
 confirm my intentions or I'll 
 correct the source code.
 
-In that even though you could
-use or this software in its 
-canonical form to commit any
+In that even though you could use 
+or modify this software from its 
+canonical form to commit some
 fraudulent activities, by
 design, it's not committing
 any fraudulent activities
 without its user's willful
-active complicity to.
+and active complicity to.
 
 Some good projects to use
 by other people! To solve
