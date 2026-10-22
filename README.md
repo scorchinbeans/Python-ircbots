@@ -39,6 +39,15 @@ please call me and I'll either
 confirm my intentions or I'll 
 correct the source code.
 
+In that even though you could
+use or this software in its 
+canonical form to commit any
+fraudulent activities, by
+design, it's not committing
+any fraudulent activities
+without its user's willful
+active complicity to.
+
 Some good projects to use
 by other people! To solve
 some of your new problems
