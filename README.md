@@ -77,6 +77,15 @@ https://youtu.be/FiKR5Wng1Fk?is=BAJ9e8jJA-5rDGED
 To use the electrum commands, you
 need to 
 
+The original files in this system
+nnamed and copyrighted with the
+author's name are his own original
+work. If any submissions are made
+to improve the work, they may be
+incorporated into seperate and
+future versions of this software 
+package.
+
 # to split files:
 split -b [.part size] [file] part-
 splits file into part-aa, part-ab...
