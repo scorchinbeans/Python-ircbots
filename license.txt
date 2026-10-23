@@ -16,9 +16,10 @@ person(s) and/or party(s).
 The scorchinbeans(TM) license(tm), BSD, and 
 apache 2.0 licenses are to be treated as 
 seperate licenses to one another seperately 
-culpable to justice, and thus any convictions
-or allegations that the scorchinbeans license(tm) 
-is unconscionable may not affect its bsd or 
+culpable to justice, and thus any court
+decisions or allegations that the scorchinbeans 
+license(tm) is unconscionable or legally 
+indefensible may not affect its bsd or 
 apache licenses and their viability in 
 securing this work as intellectual 
 property.
