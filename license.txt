@@ -1,6 +1,5 @@
-Licenses: BSD, Apache 2.0 license,
-and this "license to hate"(C)(TM) 
-license.
+Licenses: BSD, Apache 2.0 license, and 
+this, the scorchinbeans license(C)(TM)
 
 author: Paulus Madison Hay(TM)
 Copywright Aug 4 2025
@@ -14,11 +13,11 @@ this project folder may not be
 decrypted by any unauthorized
 person(s) and/or party(s).
 
-The license to hate(TM) license, BSD, and 
+The scorchinbeans(TM) license(tm), BSD, and 
 apache 2.0 licenses are to be treated as 
 seperate licenses to one another seperately 
 culpable to justice, and thus any convictions
-that the murderpocalypse is unconscionable
+that the scorchinbeans license(tm) is unconscionable
 may not affect its bsd or apache licenses
 and their viability in securing this work
 as intellectual property.
