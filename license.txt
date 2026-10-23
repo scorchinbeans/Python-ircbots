@@ -17,10 +17,11 @@ The scorchinbeans(TM) license(tm), BSD, and
 apache 2.0 licenses are to be treated as 
 seperate licenses to one another seperately 
 culpable to justice, and thus any convictions
-that the scorchinbeans license(tm) is unconscionable
-may not affect its bsd or apache licenses
-and their viability in securing this work
-as intellectual property.
+or allegations that the scorchinbeans license(tm) 
+is unconscionable may not affect its bsd or 
+apache licenses and their viability in 
+securing this work as intellectual 
+property.
 
 By using, receiving, or finding this source code, 
 you have already agreed to the terms of this license. 
