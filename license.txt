@@ -157,13 +157,18 @@ hacker girl idol/icon.
 She may not emulate fascism, or
 nazism.
 
-The following list of programs
-may not be sold for a monetary
-fee by anyone anywhere other 
-than the author.
+Any copies, distributions, or
+derivative works of the following 
+list of programs may not be sold 
+for a monetary fee by anyone 
+anywhere other than the author.
 
 * pokerbot(C).py
 * blackjackbot(C).py
+
+They are bound by this license
+too, but may not necessarily
+be published in this medium.
 
 To buy copies of them, just
 text message me at my posted
