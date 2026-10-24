@@ -37,12 +37,12 @@ itself represents a value added to the total principal
 upon this contract.
 
 It is in direct violation of the 5th
-amendment and krs 434.855 to decrypt
-steganalyze, or deobfuscate any encrypted
-encyphered, or steganographically hidden
-file, data, or information included in/by
-this project without direct prior written
-authorization by the author.
+amendment and krs 434.855 to decrypt,
+analyze, decypher, or deobfuscate any 
+encrypted, encyphered, or steganographically 
+hidden file, data, or information included 
+in/by this project without direct prior 
+written authorization by the author.
 
 If banijay kids & family is found using this 
 software/license then they owe the author the 
