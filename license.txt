@@ -44,6 +44,7 @@ data, or information included in/by
 this project without direct prior 
 written authorization by the author.
 
+According to the 5th amendment,
 It is also illegal to insinuate,
 accuse, suspect, or alledge of
 it's supposed contents without
