@@ -42,7 +42,8 @@ analyze, decypher, or deobfuscate any
 encrypted, encyphered, or hidden file, 
 data, or information included in/by 
 this project without direct prior 
-written authorization by the author.
+express written authorization by 
+the author.
 
 According to the 5th amendment,
 It is also illegal to implicate,
