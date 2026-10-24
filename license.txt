@@ -37,7 +37,7 @@ itself represents a value added to the total principal
 upon this contract.
 
 It is in direct violation of the 5th
-amendment and krs 434.855 to decrypt,
+amendment and krs 434.853 to decrypt,
 analyze, decypher, or deobfuscate any 
 encrypted, encyphered, or hidden file, 
 data, or information included in/by 
