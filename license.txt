@@ -8,6 +8,12 @@ The author disallows any usage
 of this software by anyone under
 the age of 16.
 
+The legal entity representing this
+active license and contract represents
+a company, named scorchinbeans(TM)(C).
+And as such it has certain commercial
+rights, such as the DTSA.
+
 Any information encrypted within
 this project folder may not be
 decrypted by any unauthorized
