@@ -12,7 +12,10 @@ The legal entity representing this
 active license and contract represents
 a company, named scorchinbeans(TM)(C).
 And as such it has certain commercial
-rights, such as the DTSA.
+rights, such as the Defend trade
+secrets act (18 U.S.C. § 1836) &
+Kentucky Uniform Trade Secrets 
+Act (KRS 365.880–365.900).
 
 Any information encrypted within
 this project folder may not be
