@@ -627,6 +627,7 @@ legal help may not imply liability
 culpability, and/or complicity to 
 the defendee's crimes
 
+A disclaimer:
 to any alleged outlaw activities, and any 
 law abiding people in pressure positions 
 for a living alike, you should be worried 
@@ -670,17 +671,12 @@ specific relative, or relevant intent,
 purpose or use case alleged, express
 or implied.
 
-If the user's version of this
-license on his/her device is not
-the latest version, then only
-the latest version's license
-here may be used. If such
-license is submitted even
-upon the defendant's property
-and submitted evidence at
-the time, it will be replaced
-with the latest version
-available here in court.
+If the user's version of this license 
+on his/her device is not the latest 
+canonical version, it must be disused, 
+or the latest canonical license must 
+be exchanged with that one in any 
+court of law or tort.
 
 Once the license is removed by
 the author, any extra copies
