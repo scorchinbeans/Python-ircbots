@@ -674,8 +674,9 @@ or implied.
 If the user's version of this license 
 on his/her device is not the latest 
 canonical version, it must be disused, 
-or the latest canonical license must 
-be exchanged with that one in any 
+or the latest canonical license here:
+https://github.com/scorchinbeans/Python-ircbots.git
+must be exchanged with that one in any 
 court of law or tort.
 
 Once the license is removed by
