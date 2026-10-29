@@ -17,6 +17,14 @@ secrets act (18 U.S.C. § 1836) &
 Kentucky Uniform Trade Secrets 
 Act (KRS 365.880–365.900).
 
+Also, there are company secrets now.
+Any interception, posession, or theft
+without authorization of any signed,
+or authorized information from within 
+my company is in violation of this 
+license and contract and constitutes 
+theft of company secrets.
+
 Any information encrypted within
 this project folder may not be
 decrypted by any unauthorized
