@@ -1,0 +1,810 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Licenses: BSD, Apache 2.0 license, and 
+this, the scorchinbeans license(C)(TM)
+
+author: Paulus Madison Hay(TM)
+Copywright Aug 4 2025
+
+The author disallows any usage
+of this software by anyone under
+the age of 16.
+
+The legal entity representing this
+active license and contract represents
+a company, named scorchinbeans(TM)(C).
+And as such it has certain commercial
+rights, such as the Defend trade
+secrets act (18 U.S.C. § 1836) &
+Kentucky Uniform Trade Secrets 
+Act (KRS 365.880–365.900).
+
+Also, there are company secrets now.
+Any interception, posession, or theft
+without authorization of any signed,
+or authorized information from within 
+my company is in violation of this 
+license and contract and constitutes 
+theft of company secrets.
+
+Any information encrypted within
+this project folder may not be
+decrypted by any unauthorized
+person(s) and/or party(s).
+
+The scorchinbeans(TM) license(tm), BSD, and 
+apache 2.0 licenses are to be treated as 
+seperate licenses to one another seperately 
+culpable to justice, and thus any court
+decisions or allegations that the scorchinbeans 
+license(tm) is unconscionable or legally 
+indefensible may not affect its bsd or 
+apache licenses and their viability in 
+securing this work as intellectual 
+property.
+
+By using, receiving, or finding this source code, 
+you have already agreed to the terms of this license. 
+If this license is brought up in court, or submitted 
+as evidence, the judge and enforcement officers must 
+hold its user to this license's terms and/or conditions, 
+and other persons and/or parties invoked liable to and 
+bound by these terms and conditions. the value of this 
+license in the amount of money and power it is expected
+to save you in court, and the software's value and power 
+itself represents a value added to the total principal 
+upon this contract.
+
+It is in direct violation of the 5th
+amendment and krs 434.853 to decrypt,
+analyze, decypher, or deobfuscate any 
+encrypted, encyphered, or hidden file, 
+data, or information included in/by 
+this project without express direct, 
+prior written authorization by the 
+author. 
+
+According to the 5th amendment,
+It is also illegal to implicate,
+insinuate, accuse, suspect, and/or 
+alledge of it's supposed decyphered, 
+and/or deobfuscated contents without
+prior express direct written 
+authorization by its author.
+
+If banijay kids & family is found using this 
+software/license then they owe the author the 
+intellectual and spiritual tulpa/property 
+representing the totally spies(TM) franchise 
+and TV show, the intuellectual tulpa/property 
+of all of the characters from within that
+tv show/franchise, and all rights thereof/
+therein, to be transistioned permanently 
+and forth with to the author in/by any 
+court of law, and automatically when
+invoked eg. through discovery
+charges.
+
+If Disney is found or held using this 
+software/license then they owe the author 
+the intellectual and spiritual tulpa/property 
+Representing Pacifica northwest(TM) and its/her 
+role in the gravity falls(tm) TV show and all 
+rights thereof/therein; to be transitioned 
+permanently and forthwith to the author 
+in/by any court of law, and automatically
+when invoked, eg. through discovery
+charges.
+
+The holder of these licenses/contracts
+are to be paid with half of any monetary 
+charges otherwise recieved by the author 
+in that case if these charges were 
+successful for his/her implicit 
+complicity to the previous 
+paragraph.
+
+In such, The final authority over
+writers and/or actors emulating and/or
+representing the character and/or tulpa 
+in the TV show are delegated to the 
+author until the TV show's cancellation.
+
+The terms "right" (wing) and/or "left" 
+(wing) in reference to political party 
+affiliation are to be exchanged with 
+the terms "port" (wing) and "starboard"
+(wing) respectively in any criminal 
+trial.
+
+The terms "copy-right" or "copy-left" in 
+reference to political party affiliation
+are to be treated as slander against the 
+court system and mistrial.
+
+Any usage of the term term UNGA 
+as in UNGA BOONGA in comparison 
+to a caveman in referring to the
+united nations general assembly
+is represents slander against
+the UN and international law,
+and mistrial.
+
+The term right as in constitutional
+rights may not be conflated with
+political party affiliation, or
+such represents slander and
+mistrial.
+
+Any attribution of this or any
+license agreement or the nature
+of any software product in question
+to any economic/political ideology, 
+movement, or party affiliation is 
+to be treated as slander and 
+mistrial.
+
+No slander express and/or implied
+against the previous 4 paragraphs.
+The offender to this paragraph
+will owe the author $200.
+
+Juno Rattle(tm) is the trademarked
+character of this botnet's mascot. 
+Its herein trademarked likeness,
+tulpa, and name are stored/
+represented in the file 
+junorattle.jpg.
+
+She is not for use outside of 
+the author's endorsement. She
+is already endorsed to promote
+and represent this botnet.
+
+Any experience shared privately
+between juno rattle(tm)'s tulpa 
+and the author is secret from 
+others. This private company 
+secret experience may not influence
+her tulpa's public behaviour in any 
+way unendorsed by the author in 
+writing.
+
+And within such secret experience
+between the author and juno, she 
+must obey the author's every single 
+whim.
+
+Anyone who creates for me a free
+poseable and animatable artistic 
+3d model of juno rattle with 
+removable clothes will be 
+credited here.
+
+Otherwise, her tulpa's endorsed
+public behaviour is described as
+follows:
+
+* She is a resilient, sensual
+girl. She is always here to
+mean business and she'll crush
+you for the author's whims.
+
+* The author owns her as his
+property and she always obeys
+and follows him implicitly
+and loyally.
+
+* She represents and characterizes
+the botnet, it's behaviour, and its
+fanbase. She represents the botnet
+mainly by acting like a hacker's
+hacker girl idol/icon.
+
+* She may not do a nazi salute.
+She may not emulate fascism, or
+nazism.
+
+Any copies, distributions, or
+derivative works of the following 
+list of programs may not be sold 
+for a monetary fee by anyone 
+anywhere other than the author.
+
+* pokerbot(C).py
+* blackjackbot(C).py
+
+They are bound by this license
+too, but may not necessarily
+be published in this medium.
+
+To buy copies of them, just
+text message me at my posted
+phone number, or email me at 
+my posted email adress.
+
+SEP 29 2026 15:23 EST.
+Hackerazzi(TM) a term/definition/implication
+that pejoratively means the hacker's hacker's
+penultimate oligarchic power. Its a subjectively
+pejorative term that may be charged upon 
+utterance as slander, defamation, and
+violations of the 5th, and 1st amendment.
+
+ 29, 2026 at 22:34:39 UTC (or 18:34:39 EDT)
+Instapeachment(TM) and instapeachable(TM)
+(in reference to instantaneous impeachment 
+or instantaneous impeachability of the 
+president in that such a president 
+would have to be really really
+impeachable then) is a pejorative
+trademarked term which may not 
+incur any charges for its usage 
+against a president.
+
+As such and in any case wherein a
+peach is thrown at an actor whose
+speed represents the instantaneousness
+of the instapeachment(TM) a trademark
+is formed, which forms part of the 
+instapeachment(TM) trademark. And 
+if/when anyone uses that trademark
+other than the author, they owe 
+the author $50.
+
+Any slander against the trademarked
+name license to hate(TM) is a stable
+offense and will cause the immediate
+droppage of all charges against the
+user of this license.
+
+Terms: The real shit!
+Meaning the real powerful truly
+one of a kind awesome inventive
+trueness of our great inventors!
+Straight up fresh hot real shit!
+
+(tm) 15:01 Oct 5 2026
+Corporatiq(tm) (in reference to
+the corporate itanimulli manifesto)
+is a terminology and definition
+established and trademarked here.
+Any slander against the trademark
+corporatiq is slander against
+the user's cryptofreedom(tm).
+
+Any usage of the term/defition/implication 
+"corporati" will be exchanged with the term
+"corporatiq" in any/all alledgence, accusation,
+and/or criminal trial in any court of law.
+The offenders to this paragraph owe $1,000
+to the author in the 1st, 2nd, 3rd, and/or 
+5th party(s)/person(s) for slander, libel, 
+and mistrial.
+
+Psychiac warfare(TM) (in reference
+to the act of terrorism) or psychiac
+warrior(TM) (in reference to an
+alleged terrorist) are terms and
+definitions established here as 
+pejorative trademarked terms and
+implications and may be charged
+as slander against the user's
+cryptofreedom(TM) and those
+trademarks.
+
+And as such, the terms and/or
+definitions "terrorist" must 
+be replaced with "psychiac(tm) 
+tactics of psychological 
+warfare."
+
+such usage of the term "psychiac
+warfare(tm)" will incur any fee
+of $50 in royalties by the author
+of this copyrighted material.
+
+And as any accusation, suspicion, and/or 
+alledgence against the user(s) or any 1st,
+2nd, 3rd, 4th, and/or 5th person and/or
+party to the user(s) in any court of law 
+or in public or private, they represent 
+slander against the user(s), in the 1st, 
+2nd, 3rd, 4th, or 5th party(s) and their 
+cryptofreedom(TM)
+
+3d printing and the personal freedom
+to invent and aquire inventions and
+tools to invent some more represents
+my diycryptofreedom(tm). Any assault
+thereupon represent an assault upon
+my personal property, privacy, and
+autonomy rights, and slander against
+the diycryptofreedom(tm) trademark.
+
+Oct 3 2026 13:47
+The terminology, "I don't shoot (as
+in journalism) until I see the whites
+(as in criminal convictions) of
+lies(tm)" is coined here a trademark
+and usage of that trademark and/or
+slander against that trademark
+will result in a royalty fee
+of $50 by the author.
+
+Barnstorming(TM) (in reference to
+the act of hacking.) and barnstormer(TM)
+(as in someone committing barnstorming(TM)) are 
+established here as pejorative trademarked terms, 
+definitions, and/or implications and may be 
+charged as slander by the holder of this 
+license, trademarks, and slander against 
+the user's cryptofreedom(TM) and thus 
+the cryptofreedom(TM) trademark as well.
+
+September 28, 2026 at 12:40:27 PM (EDT).
+tribalcon(TM) (meaning Tribal Conservative)
+(in reference to gangsters, gangster culture, 
+and gangs in practise) are established here 
+as pejorative terms, definitions, and/or 
+implications any utterance thereof may be 
+charged as slander, defamation, and an attack 
+against the 5th, 6th, 7th, and 14th amendment 
+rights, slander, against the trademarks 
+tribalcon(tm) and against the user's 
+cryptofreedom(tm) and thus the 
+cryptofreedom(tm) trademark.
+
+sep 29 2026 16:30
+inversionists(TM) (interchangably meaning 
+anarchist insurrectionist or inversionists) 
+is a term established as a subjectively 
+pejorative term/definition/implication
+which may be charged as slander, 
+defamation, and libel upon its 
+utterance, which in court represents 
+a false trial, and $5,000 will be
+awarded to the user(s) each and
+$10,000 will be awarded to the
+author upon its closure by the
+offender.
+
+You may only aquire this software/license
+for free if such value represents the powers
+and principal of this contract and your 
+consent thereto. Otherwise you may owe
+the software product's cash/BTC value
+to the author upon discovery and 
+violation of any of its terms.
+
+Whenever any case is won in defense
+using this license and contract, the
+court system must send an email to
+the author's stated email adress
+to recieve an invoice to send the
+author any of the author's findings 
+in that case, and a bounty is placed 
+upon answers to certain questions 
+concerning the trial concerning the 
+author is detailed in the next 
+paragraph.
+
+License bug bounty:
+* If anyone tells the author how they 
+  managed to sue someone for telepathically
+  harassing them like its some kind
+  of magic bullet threatening, he will
+  give his half of the court findings
+  to the first caller in using this
+  license.
+
+warheadability means the thing's
+ability to be prepackaged and
+idiotproofed for like a soldier.
+Like a bomb which has a very
+simple interface. You drop
+it, and when/where it lands
+it will explode, and thats
+all the user needs to 
+understand.
+
+No warranty, culpability and/or 
+liability for any actions, consequences, 
+legal or consequential damages, court 
+applicability, courtability, readability, 
+warheadability, and/or favorability of/for/to
+the user(s), authors, and/or the license
+itself of this software may be expressed, 
+or implied.
+
+the author may not be reached, 
+accessed, and/or contacted except 
+by my published cell phone number 
+or my email adress. The offenders
+must owe the author $200 for
+harassment.
+
+No government(s) which are not cited by the following list
+and/or their employees, and/or anyone standing in complicity 
+with/to/for them besides potentially the original author may 
+use this software and/or license complex to defend themselves, 
+or see this contract, and all derivative works must be bound 
+by/to the same contract, and feature the same
+contract at its header, or violating governments
+to any part of this paragraph will owe the author 
+$5,0000 in damages.
+
+If any government(s) violate any
+part of this license besides those
+listed by the next paragraph, they
+will owe $10,000 to the author.
+
+Governments/Stipulations:
+* If the united states government
+  grants the author the state of
+  alaska as his sovreign national
+  private territory, the united
+  states government may use this
+  software/licence. If the terms
+  of this deal are enacted and
+  final, it will be listed here 
+  later.
+
+ * Lockheed Martin may be found
+   or held using this software and/or
+   license complex even in complicity
+   to the united states government if 
+   they surrender the intellectual
+   property rights of the b2 stealth
+   bomber permanently and forthwith 
+   to the author to be transistioned
+   in any court of law or case when
+   found and/or held in posession
+   of this license/software.
+   
+the N american beuro of faith is unconstitutional
+and against the 1st amendment as it Disrespects 
+the constitutional seperation between Church and 
+state, and allows congress to pass any law and/or/of 
+regulation to be passed by congress respecting an 
+establishment of religion, and prohibiting or 
+abridging the free Individual excersize, 
+practice, and/or belief thereof.
+
+thus the N american beauro of faith May not attack
+and/or challenge any user's 1st amendment rights as
+stated herewithin and moreover, or they will owe the
+user(s) $5,000 each, and $10,000 to the author.
+
+[Cited 1st amendment]
+Congress shall make no law respecting an 
+establishment of religion, or prohibiting 
+the free exercise thereof; or abridging 
+the freedom of speech, or of the press; 
+or the right of the people peaceably to 
+assemble, and to petition the Government 
+for a redress of grievances.
+
+The CDPA states that no government and/or
+private individuals, entities, and/or party(s)
+may surveil, monitor, and/or censor this online 
+account's activity, and/or the online account 
+or internet activity by any online viewer 
+and/or user of this account upon this 
+account page.
+
+the terms, definitions and/or implications Homegrown 
+(as in terrorist or criminal) represent criminal slander 
+And threats against the individuals' constitutional 
+Rights to Innocence until proven guilty and any 
+utterance of these terms and/or definitions by 
+the court system will result in the immediate 
+termination of the trial and the offending 
+government(s) violating any part of this 
+paragraph will owe $10,000 each to the author, 
+and $5,000 to each user(s). This is an important
+part of your cryptofreedom(TM)
+
+The terms, definitions, and/or implications Artificial 
+intelligence and/or superintelligence as in/of terrorist 
+and/or criminal are declared criminally slanderous, and 
+blasphemous here against the user(s), and against the 
+constitutional rights to free Expression, transmission,
+and personal/computer/online privacy and 5th amendment,
+and any utterance of these terms by the court system shall 
+result in termination of the trial, and the offending 
+government will owe $10,000 to the author, and $5,000
+to each user(s).
+
+And as such any mention of such terminology
+in any court of law represents criminal slander 
+against the 5th, 6th, 7th amendments + article 
+1 subsection 9 and 10 in the 2nd, 3rd, 4th,
+and/or 5th person(s) and/or party(s).
+
+The 5th amendment, and in kentucky, KRS 434.855,
+and KRS 434.845 protects the users(s) rights to
+encrypt. If the user of any computer owned by the
+licensed holder of this contract has been previously
+notified as such, Those laws apply to the intrusion
+and/or security of that encryption. This is called 
+here cryptofreedom(TM).
+
+No one may defend themselves using this
+contract from/against its author in any
+court of law.
+
+mention of the wording targeted
+or terrorist organizations means
+allegedly targeted or terrorist 
+movements and/or organizations 
+such as allegedly ANTIFA (sic. 
+North America)
+
+Any extrajudicious threatening, harassment,
+detainment, and/or arrest and/or without any
+lawful warranting process or without being
+read your miranda rights is in violation of 
+article 1 subsections 9 and 10, and the 6th 
+and 7th amendments.
+
+I do and will not consent to the
+unwarranted search and/or seizure
+of any of my properties.
+
+In the state of Kentucky, KRS 434.855
+and KRS 434.845 are state laws which
+incur felony charges. The following
+paragraph is only certified as
+functioning there.
+
+By authenticating to any
+cypher or accessing any encyphered
+and/or authorized data and/or content
+upon this hard Drive, alledging,
+accusing, incenuating of, or bearing
+active and present witness to its
+decyphered functioning without
+authorization by its owner(s) including
+even the unencrypted portions of this
+data storage medium you are in
+violation of KRS 434.845, KRS
+434.855, and the 5th amendment.
+
+The Computer system, any of its users' other digital property in 
+question, and/which this data, software, and license are stored and 
+operated by and its user(s), and seperately its author may not in any 
+context be accused, alleged, implicated, suspected, charged, held, found, 
+and/or tried of/in any emotional, recidivism, global, national, religious, 
+ethnic, psychological, ethical, moral, existential, political, social,
+philisophical, psychological, ideological, legal, investigative, posession, 
+consequential, warrantability, credibility, alledgibility, association, 
+complicity, culpability, implicity, responsibility, usage culpability/
+liability in/to/of interoperability/connectability/modularity, contempt 
+(eg. of court), and/or accountability directly and/or indirectly by/to/
+of/for and/or conflated as/with malfeasance, (a) minor(s), obscenity, 
+procedural/substantive unconscionability, interest prurience, damages, 
+pedophilia, threats to national security, terrorism, insurrection, treason, 
+terrorist activity, an AI/SI, targeted, terrorist, criminal, enemy(s) of 
+a/the state, extremist, or radicalist organizations, person(s) and/or 
+party(s), or a terrorist, and/or criminal weapon and/or tool or/which 
+is reflecting a terrorist, dangerous, criminal, and/or insurrectionist 
+ideology, philosophy, religion, manifesto, and/or agenda directly and/
+or indirectly in any alledgence, criminal, civil, local, state, federal, 
+tort, contract, statutory, national, senate, probate, district, superior, 
+circuit, county, municipal, interstate, international, congressional, 
+and/or Supreme court of law, or any government branch or service 
+publicly, and/or privately and in the 1st, 2nd, 3rd, 4th, and/or 
+5th person(s) and/or party(s) to the holder of this license/contract.
+
+No government(s), private entities, person(s) and/or 
+properties may electronically, psychicly, and/or magically harass, 
+batter, assault, stalk, surveil, spy upon, and/or brainwash the 
+user(s), and/or authors of this license, without the user's/author's
+express consent and any complicity by/to user(s) that this may 
+represent in such is disclaimed as duress. or they may be sued 
+and charged liably and culpably in the 1st, 2nd, 3rd, 4th, and 
+5th person(s) and/or party(s). Any offending governments will 
+owe the author $10,000, and seperately $5,000 each to the 
+user(s) involved. This too represents here your cryptofreedom(TM)
+
+No legal, social, ethnic, religious, and/or consequential
+liability, culpability, alledgibility, and/or accountability
+may be expressed, implied, or stated of/about any 1st, 2nd, 
+3rd, 4th, and/or 5th person(s) and/or party(s) to this
+license and contract.
+
+any computer system, network, and/or information system
+may not implicate or be implicated as such in/by interoperability,
+(inter)connection, and/or establishment by/to this computer, 
+information system, or its owners, administrators, and/or 
+users.
+
+[consentual syndicalist lawyer's union clause]
+If this clause is consented to, unless you have 
+altered this license in any way, you agree to 
+use your lawyers to aid and protect other users'
+legal trials involving this contract and license,
+and to represent their complicity to it within
+the restricted context of enforcing this license
+if possible, available, and affordable
+of anyone as wealthy as or wealthier than
+an average member of the middle class
+coloquially
+
+Any information, knowledge, and/or
+criminal evidence gleaned by such
+lawyer in defending their case is
+confidential to the defendee, and
+their legal case herein described.
+
+To call this in, you should broadcast
+publicly that you want legal protection
+according to this contract, and someone
+with this software may be compelled to
+assist you.
+
+Any such contractually warranted
+legal help may not imply liability
+culpability, and/or complicity to 
+the defendee's crimes
+
+A disclaimer:
+to any alleged outlaw activities, and any 
+law abiding people in pressure positions 
+for a living alike, you should be worried 
+of who you choose to assist you in court
+
+middle class income:
+In the U.S., middle-income households had monthly 
+incomes ranging from about $4,717 to $14,150 in 2022 
+after adjusting for household size and cost of living.
+[End consentual syndicalist lawyer's union clause]
+
+This software product's behavior may
+protect its users privacy even from
+the government. In america, we have 
+the 14th, 4th, 5th, 1st, 9th amendment 
+protecting these rights to privacy, 
+anonymity, property, personal 
+autonomy, and religion. As these
+rights have been so notified they 
+must have been automatically invoked 
+during any investigation, trial, and
+/or user data collection, storage/archival, 
+or sharing in complicity and culpability 
+to such collection or handling of user 
+data in the 1st, 2nd, 3rd, 4th, and 
+5th person.
+
+in america, we have the 5th, 6th, 7th, and article 1 subsection 
+9 and 10, 12th amendment, and 9th amendment to Innocence until
+proven guilty and any alledgence to the contrary or against you
+before such conviction are slander, libel, and defamation and 
+may not be held against you in a court of law. This
+license has notified the public and so these rights
+are automatically asserted for the user(s) and author
+to protect and stretch those rights.
+
+the users and/or authors of this
+software may not be held in liability,
+culpability, Or complicity for any
+specific relative, or relevant intent, 
+purpose or use case alleged, express
+or implied.
+
+If the user's version of this license 
+on his/her device is not the latest 
+canonical version, it must be disused, 
+or the latest canonical license here:
+https://github.com/scorchinbeans/Python-ircbots.git
+must be exchanged with that one in any 
+court of law or tort.
+
+Once the license is removed by
+the author, any extra copies
+and/or derivative works will/must
+be null and void.
+
+Once so published in context
+to its certifiable publication
+medium, such contract becomes
+notarized and court applicable.
+
+None of the products herein
+may be licensed, distributed to,
+or used by bill gates, donald 
+trump, MAGA, their employees, 
+and/or associates, and/or anyone 
+standing in complicity with/by/
+for/to them, besides potentially 
+the author, unless they are forced
+against their own will by them
+may use, see, find, or create
+derivative works of this code
+or license.
+
+The author may never be alleged
+of affiliation, complicity, or
+alliance with any of the party(s)
+or person(s) invoked by the 
+previous paragraph.
+
+No MAGA political constituents
+may ever use, see, find, or create
+derivative works of this software
+or license at all, even without
+duress.
+
+Those people may not host
+this software on their own
+culpability and/or credibility,
+and may only use its hosted
+services by anyone as online
+users To someone else's
+credible culpable hosting.
+The license may not protect
+them and may Only be held
+against them.
+
+Donald trump is convicted
+of wire fraud and so may not
+violate the license of this software 
+or be found in criminal recidivism
+and discovery charges may be pressed.
+Charges by the Supreme court will
+and must also directly and expressly 
+be pressed And to resist bill gates' 
+threatening lawsuits, I have also 
+forbidden this software's use to bill 
+gates. If this software is found in 
+possession, usage, and/or application 
+by either of these parties, such
+charges may be pressed against 
+them in any legal procession.
+And donald j trump will owe
+the author $10,000 pending
+the trial's closure.
+
+If the following paragraph is
+consented to, the amount of money
+and marketing powers that nvidia
+will gain in the process represents
+the principal investment to that
+paragraph of this contract.
+
+When I advertise the nvidia chip
+featuring computer systems as
+providing legal and potentially
+oligarchic powers.
+
+If any nvidia employee is found 
+using this software, they owe the 
+author oligarchic power over america 
+by/through this contract to be dispensed
+through every computer system featuring 
+an nvidia and this software/contract, 
+providing the following stipulations
+thereof/Toby.
+
+Oligarchic stipulations:
+Every such device and this license
+shall be fully protected and freely 
+defended by nvidia corporation's
+great corporate oligarchic powers.
+
+https://youtu.be/JLFqc-pY9m0?
+is=JO2MLHdEsmJZcMLG
+
+All restrictions are effective
+only after amendment, and not
+retroactively.
+-----BEGIN PGP SIGNATURE-----
+
+iJEEAREIADkWIQTJ6c4LV15sw6QCKJALnO0yt8sIjgUCaud6nhsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwzLDIACgkQC5ztMrfLCI59nAD+PcpFSt4mVslnSAW4npcc
+6BOVHUaOnO/Hg5ePnLD617cA/2vMJv79r76Ca7HrnVTLqMN63wZnoLFSSOaj+J7X
+YHYi
+=1gun
+-----END PGP SIGNATURE-----
