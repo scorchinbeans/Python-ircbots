@@ -7,13 +7,14 @@ this, the scorchinbeans license(C)(TM)
 author: Paulus Madison Hay(TM)
 Copywright Aug 4 2025
 
+Canonical online source:
+https://github.com/scorchinbeans/
+Python-ircbots.git
+
 The author is the original author
 and copywright holder of this work 
 canonically available through the
-medium, 
-
-https://github.com/scorchinbeans/
-Python-ircbots.git
+canonical online source.
 
 as listed above and exclusively.
 Any falsifications, impersonations,
@@ -22,6 +23,13 @@ and copywright holdership in any
 distribution or derivative work
 is a criminal violation of this
 license and contract.
+
+if any derivative work or distribution
+states that anyone else owns the copywright
+over this canonically available work,
+besides the name listed canonically
+online, they are committing the crime 
+of perjury.
 
 The author disallows any usage
 of this software by anyone under
