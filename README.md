@@ -224,3 +224,7 @@ is=JO2MLHdEsmJZcMLG
 All restrictions are effective
 only after amendment, and not
 retroactively.
+
+Honorable mentions:
+https://github.com/abhijithjadhav
+Deepfake_detection_using_deep_learning
