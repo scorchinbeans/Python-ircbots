@@ -59,7 +59,7 @@ Deepfake_detection_using_deep_learning
 * https://github.com/subinium/
 awesome-deepfake-porn-detection
 
-Best termux rootmode!
+* Best termux rootmode!
 https://github.com/g0dm0de1337/TermuxRoot
 
 # Python-ircbots
