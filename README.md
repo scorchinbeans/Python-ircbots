@@ -1,6 +1,13 @@
 Inversionist(tm) hackerazzi(tm)
 strategem:
 
+Pokerbot.py and blackjackbot.py
+are now per copy retail applications 
+instead of open source. Please email
+me to buy copies of the closed source
+application. Thank you for your
+understanding.
+
 The hackerazzi(tm) are the 
 barnstormers(tm) and their fanatical 
 spiritualities. These lead them 
