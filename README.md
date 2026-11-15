@@ -239,3 +239,27 @@ Honorable mentions:
 
 https://github.com/abhijithjadhav
 Deepfake_detection_using_deep_learning
+
+Hey kids! using my currency, we can
+survive the apocalypse with free money
+and reboot society that way! Just
+renting out the service of owning
+your computer! This may dissolve
+all sovreignty and authority by
+multiplying bitdollar's relevance
+compared with the collapsing US
+dollar. More power to ya!
+
+Maybe become bitcoin sovreign nations 
+that way! By buying up all of their 
+nation's currency with your own, and 
+collapsing their economy as you replace
+it with your own currency and economics
+through improving the daily relevance
+of this code anyway. Picture that
+POS interface is how we sell bread
+and cars anymore. Thus transition
+to bitcoin economy from theirs.
+
+And thus we the free internet people
+own their economy. And their country.
